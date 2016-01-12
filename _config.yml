@@ -14,20 +14,16 @@
 # Site settings
 
 title: JTC
-email: jerco@sas.upenn.edu
+email: "jerco@sas.upenn.edu"
 
 description: Personal website of Jeremy T. Cohen, Classics & Statistics at the University of Pennsylvania.
 # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 
-baseurl: / # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com"
-# the base hostname & protocol for your site
+baseurl: "/" #subpath
+url: "http://jtcohen6.github.io" # base hostname & protocol for your site
 
-twitter_username: jtcohen6
-github_username:  jtcohen6
+twitter_username: "@jtcohen6"
+github_username: jtcohen6
 
 # Build settings
 
