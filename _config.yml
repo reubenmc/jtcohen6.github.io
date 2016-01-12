@@ -14,7 +14,7 @@
 # Site settings
 
 title: JTC
-email: "jerco@sas.upenn.edu"
+email: jerco at sas dot upenn dot edu
 
 description: Personal website of Jeremy T. Cohen, Classics & Statistics at the University of Pennsylvania.
 # this means to ignore newlines until "baseurl:"
@@ -22,7 +22,7 @@ description: Personal website of Jeremy T. Cohen, Classics & Statistics at the U
 baseurl: "/" #subpath
 url: "http://jtcohen6.github.io" # base hostname & protocol for your site
 
-twitter_username: "@jtcohen6"
+twitter_username: "jtcohen6"
 github_username: jtcohen6
 
 # Build settings
