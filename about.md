@@ -5,10 +5,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+[(a)](https://twitter.com/RobertDowneyJr) Genius, billionaire, playboy, philanthropist.
 
-You can find the source code for the Jekyll new theme at: /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+[(b)](https://twitter.com/HillaryClinton) Wife, mom, grandma, women+kids advocate, FLOTUS, Senator, SecState, hair icon, pantsuit aficionado, 2016 presidential candidate.
 
-You can find the source code for Jekyll at /
-[jekyll](https://github.com/jekyll/jekyll)
+(c) Third-year student of Classics and Statistics at the University of Pennsylvania.
+
+(d) Omnia et/aut nulla ex supra.
