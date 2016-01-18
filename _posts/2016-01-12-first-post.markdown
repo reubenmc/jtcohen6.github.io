@@ -3,7 +3,7 @@ layout: post
 title:  "First"
 date:   2016-01-13
 ---
-I have no idea if this is going to work, but here goes.
+Here goes nothing...
 
 {% highlight ruby %}
 def say_hello(name)
