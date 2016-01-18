@@ -9,9 +9,20 @@ permalink: /about/
 
 [(b)](https://twitter.com/HillaryClinton) Wife, mom, grandma, women+kids advocate, FLOTUS, Senator, SecState, hair icon, pantsuit aficionado, 2016 presidential candidate.
 
-(c) Third-year student of Classics and Statistics at the University of Pennsylvania.
+[(c)](https://www.phf.upenn.edu/fellows/jeremy-t-cohen) Third-year student of Classics and Statistics at the University of Pennsylvania.
 
-(d) Omnia et/aut nulla ex supra.
+[(d)](http://www.thelatinlibrary.com/caesar/gall1.shtml) Omnia et/aut nullum ex supra.
+
+_Remember: check your work in the back of the book!_
+
+...
+
+Okay, enough joking around. This website is proudly powered by [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/). Font family is [Alegreya](https://www.google.com/fonts/specimen/Alegreya), designed by Juan Pablo del Peral for Huerta Tipográfica.
+
+If you're really curious to know more about me, use the [contact form](/contact/)! Nothing can beat an in-person meeting, but I'd rather you draw conclusions on the basis of my email etiquette, rather than HTML wow-factor.
+
+Until then,<br>
+_Jeremy_
 
 <div align="right" class="footer-license">
   <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
