@@ -7,4 +7,4 @@ permalink: /projects/
 
 Here, you can find links to my various projects -- most decidedly (and unsurprisingly) *in-progress*.
 
-To start with, for instance, there is the only [impressive thing](/greco-roman-authors/interactive-map.html) I've done.
+To start with, for instance, there is the only [impressive thing](https://jtcohen6.github.io/greco-roman-authors/) I've done.
