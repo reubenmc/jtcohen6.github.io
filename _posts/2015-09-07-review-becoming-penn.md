@@ -4,10 +4,10 @@ title:  "Review"
 date:   2015-09-07
 ---
 
-**BECOMING PENN**
-**The Pragmatic American University, 1950-2000**
-By John L. Puckett and Mark Frazier Lloyd
-464 pp. University of Pennsylvania Press. $49.95.
+<p><div><strong>BECOMING PENN</strong></div>
+<div><strong>The Pragmatic American University, 1950-2000</strong></div>
+<div>By John L. Puckett and Mark Frazier Lloyd</div>
+<div>464 pp. University of Pennsylvania Press. $49.95.</div></p>
 
 Somewhere between historical journalism (public-interest style) and journalistic history (frequent *Daily Pennsylvanian* and *Inquirer* citations) is a love letter by two Penn faculty members admitting that Quaker loyalty can be complicated but never boring. Puckett and Lloyd’s well-researched volume chooses to frame Penn's development as a series of narratives, with university presidents as protagonists. This is a sensible structure for book-writing. Organizations with real longevity are impersonal actors, and most faculty members lack influence beyond the occasional or anecdotal. (Even Alan Kors, a Penn institution in and of himself, appears only as foil, accessory, or polemicist, when cued.) Naturally, the student body’s turnover is much too quick to have any impact more substantial than, in the authors’ minds, sit-in demonstrations, varying degrees of insensitivity, or that year’s topical rewrite of the ‘Port Huron Statement.’ The resulting chapters thus focus deeply on the university’s heads of estate: backgrounds, goals, good intentions, foibles, and fundraising. It makes for a good story, but also a misleading one.
 
@@ -18,3 +18,5 @@ Don’t get me wrong: The case of West Philadelphia is uniquely interesting. The
 Learning about the past fifty years of Penn’s residence in West Philly is both powerfully dynamic and proverbially consistent (‘the more things change, the more they stay the same’). There’s an analogous enthusiasm in watching the ‘flashback’ episode of a beloved TV show: one can finally put faces to the names, backstories to the stories (of the high-rise apartment complex). My mind’s eye’s map would constantly readjust to street corners and cross-sections, seeing the unfamiliar strips and vacant lots of the latter 20th century give way to landmarks I learned by heart in the fall of 2013. The row over Sansom-Walnut rows west of 34th street? Knowledgeable readers can anticipate the transmogrification of Cy’s Penn Luncheonette into a Starbucksbedecked office building [p. 232] with the same neat satisfaction as a good prequel (*Magician’s Nephew* more than *Phantom Menace*). “That’s how it came to be, kids, and so it is to this very day.” From that mindset, *Becoming Penn* does offer the occasional jolt that alters present opinion. Areas I had previously thought outside the ‘Penn bubble,’ such as Baltimore Avenue’s concentration of community-oriented small businesses near 50th street, bear the university’s indelible mark nevertheless [p. 244–5].
 
 Of course, the recent infrastructural history of West Philadelphia goes beyond the thought experiments of fiction by having *real implications* for residents. Regardless of Penn’s culpability, however justifiable, for its gentrifying presence (‘Penntrification,’ as one West Philadelphian told me this past summer); irrespective of its guilt for the unintended consequences of urban renewal and re-renewal; many in West Philly (and beyond, in Belmont et al [p. 268]) feel the effects. Perhaps all we as students can offer is an attempt to understand the forces at work in the community. We may hope that—in programs like the Netter Center and University City District—Penn’s actions are at least transparent and considered, if by necessity self-interested. Franklin may have been intrigued, if not entirely proud, that the institution bearing his legacy would offer to students, by virtue of its own past vice, an excellent case study.
+
+Originally written for Dr. Ira Harkavy's fall 2015 course (and Collaborative Action Seminar), "Urban-University Community Relations".
