@@ -37,4 +37,4 @@ Dunlap’s “A Memorial Inscription’s Grim Origins” and “Scholarly Perspe
 Museum” (2 Apr 2014).</div>
 </font>
 <p>&nbsp;</p>
-Originally written for Prof. Rita Copeland's fall 2015 course, "Ancient Epic and the Romance of Pagan Antiquity".
+*Originally written for Prof. Rita Copeland's fall 2015 course, "Ancient Epic and the Romance of Pagan Antiquity".*
