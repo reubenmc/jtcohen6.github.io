@@ -9,11 +9,9 @@ permalink: /about/
 
 [(b)](https://twitter.com/HillaryClinton) Wife, mom, grandma, women+kids advocate, FLOTUS, Senator, SecState, hair icon, pantsuit aficionado, 2016 presidential candidate.
 
-[(c)](https://www.phf.upenn.edu/fellows/jeremy-t-cohen) Third-year student of Classics and Statistics at the University of Pennsylvania.
+[(c)](https://www.phf.upenn.edu/fellows/jeremy-cohen) Third-year student of Classics and Statistics at the University of Pennsylvania.
 
 [(d)](http://www.thelatinlibrary.com/caesar/gall1.shtml) Omnia et/aut nullum ex supra.
-
-_Remember: check your work in the back of the book!_
 
 ...
 
