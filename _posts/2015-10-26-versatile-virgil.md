@@ -36,5 +36,5 @@ Two millennia after Virgil left the world, his *Aeneid* unfinished, a museum in 
 Dunlap’s “A Memorial Inscription’s Grim Origins” and “Scholarly Perspectives on Inscription at the 9/11 Memorial
 Museum” (2 Apr 2014).</div>
 </font>
-
+<p>&nbsp;</p>
 Originally written for Prof. Rita Copeland's fall 2015 course, "Ancient Epic and the Romance of Pagan Antiquity".
