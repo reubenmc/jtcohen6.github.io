@@ -22,4 +22,4 @@ Of course, the recent infrastructural history of West Philadelphia goes beyond t
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-Originally written for Dr. Ira Harkavy's fall 2015 course (and Collaborative Action Seminar), "Urban-University Community Relations".
+<em>Originally written for Dr. Ira Harkavy's fall 2015 course (and Collaborative Action Seminar), "Urban-University Community Relations".</em>
