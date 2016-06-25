@@ -19,4 +19,6 @@ Learning about the past fifty years of Penn’s residence in West Philly is both
 
 Of course, the recent infrastructural history of West Philadelphia goes beyond the thought experiments of fiction by having *real implications* for residents. Regardless of Penn’s culpability, however justifiable, for its gentrifying presence (‘Penntrification,’ as one West Philadelphian told me this past summer); irrespective of its guilt for the unintended consequences of urban renewal and re-renewal; many in West Philly (and beyond, in Belmont et al [p. 268]) feel the effects. Perhaps all we as students can offer is an attempt to understand the forces at work in the community. We may hope that—in programs like the Netter Center and University City District—Penn’s actions are at least transparent and considered, if by necessity self-interested. Franklin may have been intrigued, if not entirely proud, that the institution bearing his legacy would offer to students, by virtue of its own past vice, an excellent case study.
 
+<p>&nbsp;</p>
+
 Originally written for Dr. Ira Harkavy's fall 2015 course (and Collaborative Action Seminar), "Urban-University Community Relations".
