@@ -5,13 +5,20 @@ title: Contact
 permalink: /contact/
 ---
 
+<style>
+input[type='text'] { font-size: 18px; font-family: "Lato"; }
+input[type='email'] { font-size: 18px; font-family: "Lato"; }
+textarea[name='message'] { font-size: 14px; font-family: "Lato"; }
+input[type='submit'] { font-size: 14px; font-family: "Lato"; }
+</style>
+
 <h4>Your feedback is welcome, and solicitations tolerated.</h4>
 
 <form action="//formspree.io/jtcohen6@gmail.com"
       method="POST">
-    <input type="text" placeholder="Name" name="name"><br>
-    <input type="email" placeholder="Email" name="_replyto"><br>
-    <textarea rows="4" cols="50" name="message"></textarea><br>
+    <input type="text" placeholder="Name" name="name" size="49"><br>
+    <input type="email" placeholder="Email" name="_replyto" size="49"><br>
+    <textarea rows="8" cols="63" name="message" placeholder="Message"></textarea><br>
     <input type="hidden" name="_subject" value="New submission!" />
     <input type="hidden" name="_next" value="/contact/thanks/" />
     <input type="text" name="_gotcha" style="display:none" />

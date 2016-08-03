@@ -3,22 +3,20 @@ layout: default
 permalink: /home/
 ---
 
-<h1><em>Salve!</em></h1>
-<div>Please forgive our appearance while site is under construction.</div>
-  <div align="right"><em>Management.</em></div>
-
 <p>&nbsp;</p>
 
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">
+    {% unless post.exclude_from_home %}
+      <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-      <div>&nbsp;</div>
-    </article>
+        <div class="entry">
+          {{ post.excerpt }}
+        </div>
+        <div>&nbsp;</div>
+      </article>
+    {% endunless %}
   {% endfor %}
 </div>
