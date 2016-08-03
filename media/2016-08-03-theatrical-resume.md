@@ -3,7 +3,7 @@ layout: post
 title:  "Theatrical Resume"
 date:   2015-08-03
 permalink: /media/theatrical-resume
-exclude_from_home: true
+exclude: true
 ---
 
 ## On Stage

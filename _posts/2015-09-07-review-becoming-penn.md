@@ -4,10 +4,12 @@ title:  "Review"
 date:   2015-09-07
 ---
 
-<p><div><strong>BECOMING PENN</strong></div>
+<div><strong>BECOMING PENN</strong></div>
 <div><strong>The Pragmatic American University, 1950-2000</strong></div>
 <div>By John L. Puckett and Mark Frazier Lloyd</div>
-<div>464 pp. University of Pennsylvania Press. $49.95.</div></p>
+<div>464 pp. University of Pennsylvania Press. $49.95.</div>
+
+<p>&nbsp;</p>
 
 Somewhere between historical journalism (public-interest style) and journalistic history (frequent *Daily Pennsylvanian* and *Inquirer* citations) is a love letter by two Penn faculty members admitting that Quaker loyalty can be complicated but never boring. Puckett and Lloyd’s well-researched volume chooses to frame Penn's development as a series of narratives, with university presidents as protagonists. This is a sensible structure for book-writing. Organizations with real longevity are impersonal actors, and most faculty members lack influence beyond the occasional or anecdotal. (Even Alan Kors, a Penn institution in and of himself, appears only as foil, accessory, or polemicist, when cued.) Naturally, the student body’s turnover is much too quick to have any impact more substantial than, in the authors’ minds, sit-in demonstrations, varying degrees of insensitivity, or that year’s topical rewrite of the ‘Port Huron Statement.’ The resulting chapters thus focus deeply on the university’s heads of estate: backgrounds, goals, good intentions, foibles, and fundraising. It makes for a good story, but also a misleading one.
 

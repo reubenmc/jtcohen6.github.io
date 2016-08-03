@@ -2,12 +2,11 @@
 layout: post
 title:  "Mapping Greco-Roman Authors"
 date:   2015-08-21
-permalink: /projects/greco-roman-authors/background
-exclude_from_home: true
+exclude: true
 ---
 
 ### Theoretical Background
-_(Actual project page [here](https://jtcohen6.github.io/greco-roman-authors/).)_
+(Back to project [overview](/projects/greco-roman-authors/overview.html).)
 
 Research in Classical Studies may not immediately seem like terra incognita (puns intended). Over the course of the summer, in collaboration with Prof. James Ker, I developed online, interactive maps to present basic information about Greek and Latin authors – the same set of 50- 100 long-dead individuals, having written in long-dead languages, read every year by students all over the world.
 

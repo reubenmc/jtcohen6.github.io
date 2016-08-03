@@ -1,17 +1,18 @@
 ---
 layout: default
-permalink: /home/
----
+title: Posts
 
-<p>&nbsp;</p>
+permalink: /posts/
+---
 
 <div class="posts">
   {% for post in site.posts %}
-    {% unless post.exclude_from_home %}
+    {% unless post.exclude %}
       <article class="post">
-
-        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
+        <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+        <div class="date">
+          {{ post.date | date: "%-d %b %Y" }}
+        </div>
         <div class="entry">
           {{ post.excerpt }}
         </div>
