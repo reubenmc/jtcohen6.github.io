@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: page
 title:  "Theatrical Resume"
-date:   2015-08-03
 permalink: /media/theatrical-resume
 exclude: true
 ---

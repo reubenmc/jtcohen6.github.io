@@ -5,8 +5,6 @@ title: Projects
 permalink: /projects/
 ---
 
-Listed from most to least recent.
-
 <p>&nbsp;</p>
 
 #### [Ranking American Universities](/projects/ranking-us-universities.html)

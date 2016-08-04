@@ -12,7 +12,7 @@ If you're curious to know more, use the [contact form](/contact/)! Nothing can b
 Until then,<br>
 _Jeremy_
 
-<h6><em>Fine print:</em> Website proudly powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://pages.github.com/">GitHub Pages</a>. Font family is <a href="https://www.google.com/fonts/specimen/Alegreya">Alegreya</a>, designed by Juan Pablo del Peral for Huerta Tipográfica.</h6>
+###### _Fine print:_ Website proudly powered by [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/). Font family is [Gentium Basic](https://fonts.google.com/specimen/Gentium+Basic), designed by Victor Gaultney.
 
 <div align="right" class="footer-license">
   <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
