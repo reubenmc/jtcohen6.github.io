@@ -206,3 +206,11 @@ pre {
         }
     }
 }
+
+.icon a:active, a:hover {
+  > svg {
+      path {
+          fill: $grey-color-dark;
+      }
+  }
+}
