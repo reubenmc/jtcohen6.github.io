@@ -16,5 +16,5 @@ permalink: /projects/
 [External link to Devpost](http://devpost.com/software/emerging-markets-in-the-news-2006-2016). Project for PennApps XIII, Jan 2016, in partnership with [Raghav Joshi](https://raghavjoshi.firebaseapp.com/) and with technical assistance from [Gus Wynn](http://guswynn.github.io/). <div>&nbsp;</div>
 
 ## Greco-Roman Authors
-[Interactive map](/projects/greco-roman-authors/overview.html) for Greek and Latin authors of classical antiquity. Project completed under the supervision of Prof. James Ker for the Penn Undergrad Research Mentoring program in Jun-Aug 2015, with [fuller background](/projects/greco-roman-authors/background). HTML, JavaScript, SQL.
+Interactive map for Greek and Latin authors of classical antiquity, with [full project page](/projects/greco-roman-authors/overview.html). Project completed under the supervision of Prof. James Ker for the Penn Undergrad Research Mentoring program in Jun-Aug 2015. HTML, JavaScript, SQL.
 <div>&nbsp;</div>
