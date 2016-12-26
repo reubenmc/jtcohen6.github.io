@@ -5,7 +5,11 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %b %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %b %Y" }}</time>
+      {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}
+      {% if page.tags %} | <span id="taglist" itemprop="keywords" itemscope itemtype="https://schema.org/keywords">{% for tag in page.tags %}<span><a href="/posts?tag={{ tag }}">{{ tag }}</a></span>{% endfor %}</span>{% endif %}
+    </p>
   </header>
 
   <div class="post-content" itemprop="articleBody">
@@ -13,3 +17,13 @@ layout: default
   </div>
 
 </article>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+	var url = window.location.href;
+	var tag = url.match(/tag=(.*)/)[1];
+  $('article.post').hide();
+	$('#'+tag).show();
+});
+</script>

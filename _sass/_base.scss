@@ -76,6 +76,15 @@ li {
     }
 }
 
+#taglist {
+       display: inline;
+     }
+       span:after {
+           content: ", ";
+         }
+       span:last-child:after {
+           content: "";
+         }
 
 
 /**

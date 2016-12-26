@@ -2,7 +2,7 @@
 layout: default
 title: Projects
 
-permalink: /projects/
+permalink: /projects/home
 ---
 
 ## Stat Final Projects
@@ -17,4 +17,4 @@ permalink: /projects/
 <div>&nbsp;</div>
 
 ## Greco-Roman Authors
-Interactive map for Greek and Latin authors of classical antiquity, with [full project page](/projects/greco-roman-authors/overview.html). Project completed under the supervision of Prof. James Ker for the Penn Undergrad Research Mentoring program in Jun-Aug 2015. HTML, JavaScript, SQL.
+Interactive map for Greek and Latin authors of classical antiquity, with [full project page](/projects/greco-roman-authors/overview). Project completed under the supervision of Prof. James Ker for the Penn Undergrad Research Mentoring program in Jun-Aug 2015. HTML, JavaScript, SQL.

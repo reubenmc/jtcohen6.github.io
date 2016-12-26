@@ -2,6 +2,7 @@
 layout: post
 title:  "Review"
 date:   2015-09-07
+tags: [penn, philadelphia]
 ---
 
 <div><strong>BECOMING PENN</strong></div>

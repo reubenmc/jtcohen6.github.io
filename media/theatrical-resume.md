@@ -34,6 +34,6 @@ exclude: true
 | *Large Animal Games* (Yockey) | Set Crew | Quadramics | Dec '14 | |
 | *The Phantom Tollbooth* (Juster & Nanus) | Lights Crew | Stimulus | Nov '14 | |
 | *The Shadow Box* (Cristofer) | Lights Crew | Front Row | Nov '14 | |
-| *Opposite of Loneliness: A (Dis)Connection Project* (orig. devised) | PRODUCER | iNtuitons | Oct '14 | i.e. Chief Project Manager, whereby every buck stopped with me. |
-| *Our Play, By Us* (orig.) | Co-Writer | iNtuitons | Sept '14 | Short play for “Alternative Theatre Festival”, part of Philly Fringe. Comedy. |
+| [*Opposite of Loneliness: A (Dis)Connection Project*](https://www.youtube.com/watch?v=PclkNvhn9cQ) (orig. devised) | PRODUCER | iNtuitons | Oct '14 | i.e. Chief Project Manager, whereby every buck stopped with me. |
+| *[Our Play,](https://www.youtube.com/watch?v=MyiIL5-49nk) [By Us](https://www.youtube.com/watch?v=S-kAQ1b598M)* (orig.) | Co-Writer | iNtuitons | Sept '14 | Short play for “Alternative Theatre Festival”, part of Philly Fringe. Comedy. |
 | *Cabaret* (Kander & Ebb) | Dramaturg | Front Row | Feb '14 | |

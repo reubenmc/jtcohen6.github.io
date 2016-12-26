@@ -1,16 +1,20 @@
 ---
-layout: page
+layout: default
 title: About
 
-permalink: /about/
+permalink: /about
 ---
 
-I'm a fourth-year student at Penn studying Classics and Statistics. Interests include ancient religion, Attic drama, Roman colonialism, higher education, and the history of baseball. Favorite languages (right now) are Ionian Greek, Dutch, and R.
+Salve!
 
-If you're curious to know more, use the [contact form](/contact/)! Nothing can beat an in-person meeting, but I'd rather you draw conclusions on the basis of my email etiquette, rather than HTML wow-factor.
+I'm a fourth-year student at Penn studying Classics and Statistics. My primary group on campus is [iNtuitons Experimental Theatre](http://www.intuitons.org), of which I'm  Chair, and I'll be directing *The Merchant of Venice* for Front Row Theatre Co. in April 2017. I've also been involved with the Student Activities Council, the Philomathean Society, Sphinx Senior Society, and the Penn Humanities Forum.
+
+While I don't yet know what I'm doing next year, having turned down a return offer to the world of NYC financial technology—there are a few possibilities floating in the air. I'm especially interested in the fields of journalism, theatre, (civil rights) law, higher education, and environmental policy.
+
+If you're curious to know more, use the [contact form](/contact/)! Messages go straight to my email inbox, and I like to think that I write good emails.
 
 Until then,<br>
-_Jeremy_
+Jeremy
 
 ###### _Fine print:_ Website proudly powered by [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/). Font family is [Gentium Basic](https://fonts.google.com/specimen/Gentium+Basic), designed by Victor Gaultney.
 

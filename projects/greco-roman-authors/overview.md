@@ -2,6 +2,7 @@
 layout: post
 title:  "Mapping Greco-Roman Authors"
 date:   2015-08-21
+permalink: /projects/greco-roman-authors/overview
 exclude: true
 ---
 

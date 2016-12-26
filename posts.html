@@ -2,7 +2,7 @@
 layout: default
 title: Posts
 
-permalink: /posts/
+permalink: /posts
 ---
 
 <div class="posts">
@@ -13,11 +13,97 @@ permalink: /posts/
         <div class="date">
           {{ post.date | date: "%-d %b %Y" }}
         </div>
-        <div class="entry">
           {{ post.excerpt }}
         </div>
-        <div>&nbsp;</div>
+        <div class="nbsp">&nbsp;</div>
       </article>
     {% endunless %}
   {% endfor %}
+
+{% comment %}
+=======================
+The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
+=======================
+{% endcomment %}
+{% assign rawtags = "" %}
+{% for post in site.posts %}
+	{% assign ttags = post.tags | join:'|' | append:'|' %}
+	{% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
+
+{% comment %}
+=======================
+The following part removes dulpicated tags and invalid tags like blank tag.
+=======================
+{% endcomment %}
+{% assign tags = "" %}
+{% for tag in rawtags %}
+	{% if tag != "" %}
+		{% if tags == "" %}
+			{% assign tags = tag | split:'|' %}
+		{% endif %}
+		{% unless tags contains tag %}
+			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}
+
+{% comment %}
+=======================
+The purpose of this snippet is to list all the tags you have in your site.
+=======================
+{% endcomment %}
+<div class="nbsp">&nbsp;</div>
+<div class="wrapper"><span id="taglist">
+  Tags:
+  {% for tag in tags %}
+	 <span><a href="/posts?tag={{ tag }}">{{ tag }}</a></span>
+  {% endfor %}
+</span></div>
+
+{% comment %}
+=======================
+The purpose of this snippet is to list all your posts posted with a certain tag.
+=======================
+{% endcomment %}
+<div id="nbsp2" style:"display:none">&nbsp;</div>
+{% for tag in tags %}
+<div id="{{ tag | slugify }}" class="wrapper" style="display:none">
+  <h2>{{ tag }}</h2>
+	<ul>
+	 {% for post in site.posts %}
+		 {% if post.tags contains tag %}
+		 <li>
+		 <h3>
+		 <a href="{{ post.url }}">
+		 {{ post.title }}</a>
+     <span class="post-meta">
+       <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%-d %b %Y" }}</time>
+       {% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}
+       {% if post.tags %} | <span id="taglist" itemprop="keywords" itemscope itemtype="https://schema.org/keywords">{% for tag in post.tags %}<span><a href="/posts?tag={{ tag }}">{{ tag }}</a></span>{% endfor %}</span>{% endif %}
+     </span>
+		 </h3>
+		 </li>
+		 {% endif %}
+	 {% endfor %}
+	</ul>
 </div>
+{% endfor %}
+<div id="nbsp2" style:"display:none">&nbsp;</div>
+
+<p id="recent" class="wrapper" style="display:none; font-size:$small-font-size">View <a href="/posts">recent posts</a> instead</p>
+</div>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+	var url = window.location.href;
+	var tag = url.match(/tag=(.*)/)[1];
+  $('article.post').hide();
+  $('div.nbsp').hide();
+	$('#'+tag).show();
+  $('#recent').show();
+  $('div.nbsp2').show();
+});
+</script>
