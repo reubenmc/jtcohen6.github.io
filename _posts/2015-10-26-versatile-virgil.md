@@ -2,7 +2,7 @@
 layout: post
 title:  "Versatile Virgil"
 date:   2015-10-26
-tags: [classics, penn]
+tags: [classics, virgil, homer]
 ---
 
 How does an author—widely quoted, more widely loved—lose hold of authority?

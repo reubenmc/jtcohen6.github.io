@@ -6,7 +6,7 @@ tags: [penn, philadelphia]
 ---
 
 **BECOMING PENN:**  
-**The Pragmatic American University, 1950-2000.**  
+**The Pragmatic American University, 1950-2000.**
 By John L. Puckett and Mark Frazier Lloyd,  
 464 pp. University of Pennsylvania Press. $49.95.
 

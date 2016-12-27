@@ -11,7 +11,7 @@ I'm a fourth-year student at Penn studying Classics and Statistics. My primary g
 
 While I don't yet know what I'm doing next year, having turned down a return offer to the world of NYC financial technology—there are a few possibilities floating in the air. I'm especially interested in the fields of journalism, theatre, (civil rights) law, higher education, and environmental policy.
 
-If you're curious to know more, use the [contact form](/contact/)! Messages go straight to my email inbox, and I like to think that I write good emails.
+Available on this site are some links, writing samples, and in-progress projects. There's also my [standard resume](/resume.pdf) and [theatrical resume](/theatrical_resume.pdf). If you're curious to know more, use the [contact form](/contact/form)! Messages go straight to my email inbox, and I like to think that I write good emails.
 
 Until then,<br>
 Jeremy
