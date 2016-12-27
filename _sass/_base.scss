@@ -126,12 +126,12 @@ a {
 
     &:visited {
         color: darken($brand-color, 15%);
-        &:active, &:hover {
+        &:hover {
             font-weight: bold;
         }
     }
 
-    &:active, &:hover {
+    &:hover {
         font-weight: bold;
     }
 }

@@ -26,7 +26,7 @@
       color: $text-color;
     }
 
-    &:active, &:hover {
+    &:hover {
       text-decoration: none;
       font-weight: bold;
     }
@@ -49,7 +49,7 @@
             margin-right: 20px;
         }
 
-        &:active, &:hover {
+        &:hover {
           text-decoration: none;
           font-weight: bold;
         }
