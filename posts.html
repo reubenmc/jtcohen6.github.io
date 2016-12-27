@@ -10,15 +10,17 @@ permalink: /posts
     {% unless post.exclude %}
       <article class="post">
         <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-        <div class="date">
-          {{ post.date | date: "%-d %b %Y" }}
-        </div>
-          {{ post.excerpt }}
-        </div>
+        <p class="post-meta">
+          <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%-d %b %Y" }}</time>
+          {% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}
+          {% if post.tags %} | <span id="taglist" itemprop="keywords" itemscope itemtype="https://schema.org/keywords">{% for tag in post.tags %}<span><a href="/posts?tag={{ tag }}">{{ tag }}</a></span>{% endfor %}</span>{% endif %}
+        </p>
+          {{ post.excerpt | strip_newline }}
         <div class="nbsp">&nbsp;</div>
       </article>
     {% endunless %}
   {% endfor %}
+</div>
 
 {% comment %}
 =======================
@@ -55,7 +57,7 @@ The purpose of this snippet is to list all the tags you have in your site.
 =======================
 {% endcomment %}
 <div class="nbsp">&nbsp;</div>
-<div class="wrapper"><span id="taglist">
+<div id="taglist">
   Tags:
   {% for tag in tags %}
 	 <span><a href="/posts?tag={{ tag }}">{{ tag }}</a></span>
@@ -69,7 +71,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 {% endcomment %}
 <div id="nbsp2" style:"display:none">&nbsp;</div>
 {% for tag in tags %}
-<div id="{{ tag | slugify }}" class="wrapper" style="display:none">
+<div id="{{ tag | slugify }}" style="display:none">
   <h2>{{ tag }}</h2>
 	<ul>
 	 {% for post in site.posts %}
@@ -92,7 +94,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 {% endfor %}
 <div id="nbsp2" style:"display:none">&nbsp;</div>
 
-<p id="recent" class="wrapper" style="display:none; font-size:$small-font-size">View <a href="/posts">recent posts</a> instead</p>
+<p id="recent" class="postscript" style="display:none; font-size:$small-font-size">View <a href="/posts">recent posts</a> instead</p>
 </div>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
@@ -100,7 +102,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 $(document).ready(function() {
 	var url = window.location.href;
 	var tag = url.match(/tag=(.*)/)[1];
-  $('article.post').hide();
+  $('div.posts').hide();
   $('div.nbsp').hide();
 	$('#'+tag).show();
   $('#recent').show();

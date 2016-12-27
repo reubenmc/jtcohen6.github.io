@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Contact
 
 permalink: /contact/form
@@ -20,7 +20,7 @@ input[type='submit'] { font-size: 14px; font-family: "Lato"; }
     <input type="email" placeholder="Email" name="_replyto" size="30%"><br>
     <textarea rows="8" cols="63" name="message" placeholder="Message"></textarea><br>
     <input type="hidden" name="_subject" value="New submission!" />
-    <input type="hidden" name="_next" value="/contact/thanks/" />
+    <input type="hidden" name="_next" value="/contact/thanks" />
     <input type="text" name="_gotcha" style="display:none" />
     <input type="submit" value="Send">
 </form>

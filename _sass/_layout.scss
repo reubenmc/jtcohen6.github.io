@@ -3,7 +3,7 @@
  */
 .site-header {
     border-top: 5px solid $grey-color-dark;
-   border-bottom: 1px solid $grey-color-dark;
+    border-bottom: 1px solid $grey-color-dark;
     background-color: $grey-color-light;
     min-height: 56px;
 
@@ -18,10 +18,17 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    color: $text-color;
 
     &,
-    &:visited {
-        color: $grey-color-dark;
+
+    &:link, &:visited {
+      color: $text-color;
+    }
+
+    &:active, &:hover {
+      text-decoration: none;
+      font-weight: bold;
     }
 }
 
@@ -40,6 +47,11 @@
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
             margin-right: 20px;
+        }
+
+        &:active, &:hover {
+          text-decoration: none;
+          font-weight: bold;
         }
     }
 

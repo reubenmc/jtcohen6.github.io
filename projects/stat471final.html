@@ -1749,34 +1749,34 @@ usranks &lt;- data.frame()
 depted &lt;- read.csv(&quot;Dept-Ed_Most-Recent-Cohorts-All-Data-Elements.csv&quot;)
 
 mine &lt;- function(x) {
-    
+
     # read webpage based on function input
-    page &lt;- readLines(paste(&quot;http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/national-universities/data/page+&quot;, 
+    page &lt;- readLines(paste(&quot;http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/national-universities/data/page+&quot;,
         x))
-    
+
     # does page contain unranked schools?
     cutoff &lt;- grep(&quot;Rank Not Published&quot;, page)[1]
     if (!is.na(cutoff)) {
         page &lt;- page[1:cutoff]
     }
-    
+
     # find school names
     schoollines &lt;- page[grep(&quot;school-name&quot;, page)]
     schoolexpr1 &lt;- regexpr(&quot;[{[:digit:]},4]&quot;, schoollines)
     schoolexpr2 &lt;- regexpr(&quot;&lt;/a&gt;&amp;nbsp;&lt;span class&quot;, schoollines)
     school &lt;- substring(schoollines, schoolexpr1 + 6, schoolexpr2 - 1)
-    
+
     # find scores
     scoredlines &lt;- page[grep(&quot;&lt;strong&gt;Overall Score:&lt;/strong&gt;&quot;, page)]
     scoredexpr &lt;- regexpr(&quot;out of 100&quot;, scoredlines)
-    score &lt;- as.numeric(gsub(&quot;[^[:digit:]]&quot;, &quot;&quot;, substring(scoredlines, scoredexpr - 
+    score &lt;- as.numeric(gsub(&quot;[^[:digit:]]&quot;, &quot;&quot;, substring(scoredlines, scoredexpr -
         4, scoredexpr - 2)))
-    
+
     # add data rows to existing data frame
     pagedata &lt;- data.frame(school, score)
     usranks &lt;&lt;- rbind(usranks, pagedata)
     usranks
-    
+
 }
 
 # 11 pages total, unranked (unscored) schools begin on page 8
@@ -1823,7 +1823,7 @@ for (i in 1:nrow(carnegie)) {
 write.csv(carnegie, &quot;Carnegie_CommEngClass_updated.csv&quot;)
 
 # for washington rankings
-washington$Name &lt;- substring(washington$Institution, 1, regexpr(&quot;\\((.*)\\)&quot;, 
+washington$Name &lt;- substring(washington$Institution, 1, regexpr(&quot;\\((.*)\\)&quot;,
     washington$Institution) - 2)
 
 for (i in 1:nrow(washington)) {
@@ -1842,12 +1842,12 @@ observs1 &lt;- unique(oncampuscrimes$Unitid)
 oncampuscrimedata &lt;- oncampuscrimes[1, c(2, 3, 7:15)]
 
 for (i in 1:length(observs1)) {
-    oncampuscrimedata[i, 1] &lt;- oncampuscrimes[oncampuscrimes$Unitid == observs1[i] &amp; 
+    oncampuscrimedata[i, 1] &lt;- oncampuscrimes[oncampuscrimes$Unitid == observs1[i] &amp;
         oncampuscrimes$Campus.ID == 1, 2][1]
-    oncampuscrimedata[i, 2] &lt;- oncampuscrimes[oncampuscrimes$Unitid == observs1[i] &amp; 
+    oncampuscrimedata[i, 2] &lt;- oncampuscrimes[oncampuscrimes$Unitid == observs1[i] &amp;
         oncampuscrimes$Campus.ID == 1, 3][1]
     for (j in 7:15) {
-        oncampuscrimedata[i, j - 4] &lt;- sum(oncampuscrimes[oncampuscrimes$Unitid == 
+        oncampuscrimedata[i, j - 4] &lt;- sum(oncampuscrimes[oncampuscrimes$Unitid ==
             observs1[i] &amp; oncampuscrimes$Campus.ID == 1, j])
     }
 }
@@ -1858,17 +1858,17 @@ observs2 &lt;- unique(noncampuscrimes$Unitid)
 noncampuscrimedata &lt;- noncampuscrimes[1, c(2, 3, 7:15)]
 
 for (i in 1:length(observs2)) {
-    noncampuscrimedata[i, 1] &lt;- noncampuscrimes[noncampuscrimes$Unitid == observs2[i] &amp; 
+    noncampuscrimedata[i, 1] &lt;- noncampuscrimes[noncampuscrimes$Unitid == observs2[i] &amp;
         noncampuscrimes$Campus.ID == 1, 2][1]
-    noncampuscrimedata[i, 2] &lt;- noncampuscrimes[noncampuscrimes$Unitid == observs2[i] &amp; 
+    noncampuscrimedata[i, 2] &lt;- noncampuscrimes[noncampuscrimes$Unitid == observs2[i] &amp;
         noncampuscrimes$Campus.ID == 1, 3][1]
     for (j in 7:15) {
-        noncampuscrimedata[i, j - 4] &lt;- sum(noncampuscrimes[noncampuscrimes$Unitid == 
+        noncampuscrimedata[i, j - 4] &lt;- sum(noncampuscrimes[noncampuscrimes$Unitid ==
             observs2[i] &amp; noncampuscrimes$Campus.ID == 1, j])
     }
 }
 
-noncampuscrimedata &lt;- noncampuscrimedata[complete.cases(noncampuscrimedata), 
+noncampuscrimedata &lt;- noncampuscrimedata[complete.cases(noncampuscrimedata),
     ]
 
 # combine on-campus and noncampus data
@@ -1878,11 +1878,11 @@ allcrimedata &lt;- oncampuscrimedata[1, ]
 
 for (i in 1:length(observs)) {
     allcrimedata[i, 1] &lt;- observs[i]
-    allcrimedata[i, 2] &lt;- oncampuscrimedata[oncampuscrimedata$Unitid == observs[i], 
+    allcrimedata[i, 2] &lt;- oncampuscrimedata[oncampuscrimedata$Unitid == observs[i],
         2]
     for (j in 3:11) {
-        allcrimedata[i, j] &lt;- sum(as.numeric(oncampuscrimedata[oncampuscrimedata$Unitid == 
-            observs[i], j][1]), as.numeric(noncampuscrimedata[noncampuscrimedata$Unitid == 
+        allcrimedata[i, j] &lt;- sum(as.numeric(oncampuscrimedata[oncampuscrimedata$Unitid ==
+            observs[i], j][1]), as.numeric(noncampuscrimedata[noncampuscrimedata$Unitid ==
             observs[i], j][1]))
     }
 }
@@ -1892,8 +1892,8 @@ dim(allcrimedata)  # 2501 observations on 11 variables (2 identifiers, 9 crime-r
 # total violent crime (excluding only non-forcible sexual offenses, e.g.
 # incest and statutory)
 
-allcrimedata$violent &lt;- allcrimedata[, 3] + allcrimedata[, 4] + allcrimedata[, 
-    5] + allcrimedata[, 7] + allcrimedata[, 8] + allcrimedata[, 9] + allcrimedata[, 
+allcrimedata$violent &lt;- allcrimedata[, 3] + allcrimedata[, 4] + allcrimedata[,
+    5] + allcrimedata[, 7] + allcrimedata[, 8] + allcrimedata[, 9] + allcrimedata[,
     10] + allcrimedata[, 11]
 
 write.csv(allcrimedata, &quot;violentcrime_oncampus_noncampus_2013-14.csv&quot;)
@@ -1937,7 +1937,7 @@ for (i in 1:length(common)) {
     indices[i] &lt;- which(washington$unitid == common[i])
 }
 washingtondata &lt;- washington[indices, c(1:6)]
-names(washingtondata) &lt;- c(&quot;washingtonindex&quot;, &quot;washington.service.rank&quot;, &quot;washington.overall.rank&quot;, 
+names(washingtondata) &lt;- c(&quot;washingtonindex&quot;, &quot;washington.service.rank&quot;, &quot;washington.overall.rank&quot;,
     &quot;unitid&quot;, &quot;Institution&quot;, &quot;washington.overall.score&quot;)
 
 # Carnegie classification of desired universities (0 or 1)
@@ -1955,8 +1955,8 @@ crimedata &lt;- crime[indices, ]
 data.raw &lt;- cbind(usnewsdata, washingtondata, carnegieclass, crimedata, commondata)
 
 # final collection of data
-data &lt;- cbind(data.raw[, c(&quot;UNITID&quot;, &quot;NAME&quot;, &quot;usnewsrank&quot;, &quot;usnewsscore&quot;, &quot;carnegieclass&quot;, 
-    &quot;washington.service.rank&quot;, &quot;washington.overall.rank&quot;, &quot;washington.overall.score&quot;, 
+data &lt;- cbind(data.raw[, c(&quot;UNITID&quot;, &quot;NAME&quot;, &quot;usnewsrank&quot;, &quot;usnewsscore&quot;, &quot;carnegieclass&quot;,
+    &quot;washington.service.rank&quot;, &quot;washington.overall.rank&quot;, &quot;washington.overall.score&quot;,
     &quot;violent&quot;)], commondata[, c(3:93)])
 
 # save

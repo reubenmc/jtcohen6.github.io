@@ -9,7 +9,7 @@ permalink: /media/home
 * Full theatrical [résumé](/media/theatrical-resume). Please contact for photos.
 <div>&nbsp;</div>
 
-## Publication
+## Publications
 
 * ["Lion Within: Plato's *Republic* in Roman Upper Egypt,"](/media/clst_honors.pdf) completed under the supervision of Prof. Peter Struck and submitted for honors consideration to the Department of Classical Studies
 * "Staging the Comic Foreigner: Plautus' Ethnic Humor," *Discentes*, Fall '16 (forthcoming)
