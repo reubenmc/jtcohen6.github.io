@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Eumenides: Dramaturgical Note"
-date: 2016-12-11
+date: 2016-03-24
 tags: [classics, penn, theatre]
 ---
 
@@ -19,7 +19,7 @@ takes refuge at the Temple of Apollo.
 And yet, *The Eumenides* is a strange breed of tragedy; it ends with
 everyone still on his feet. The conclusion is a legal reform, like one
 many Athenians underwent in the sixth century. But the *Oresteia* begins
-with the family of Agamemnon, who returns from Troy in the 12^th^
+with the family of Agamemnon, who returns from Troy in the 12<sup>th</sup>
 century BCE —the preliterate, honor-driven world of Homer. And the
 Furies, borrowing attributes of every female death-spirit in the Greek
 imagination, stretch back even further to the shadows of primordial
