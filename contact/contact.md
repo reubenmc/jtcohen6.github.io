@@ -18,6 +18,7 @@ input[type='submit'] { font-size: 14px; font-family: "Lato"; }
       method="POST">
     <input type="text" placeholder="Name" name="name" size="30%"><br>
     <input type="email" placeholder="Email" name="_replyto" size="30%"><br>
+    <div>&nbsp;</div>
     <textarea rows="8" cols="63" name="message" placeholder="Message"></textarea><br>
     <input type="hidden" name="_subject" value="New submission!" />
     <input type="hidden" name="_next" value="/contact/thanks" />
