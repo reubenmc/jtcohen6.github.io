@@ -19,9 +19,11 @@ permalink: /media/home
 
 iNtuitons' Alternative Theatre Festival 2016, [reviewed by 34th Street](http://www.34st.com/article/2016/09/the-alternative-theatre-festival-skydiving-and-fallopian-tubes)
 
-SAC Coverage in *The Daily Pennsylvanian:*  
-* [October GBM: Elections](http://www.thedp.com/article/2014/10/sac-gbm-october) (Oct '14)
-* [Interview: New Chair](http://www.thedp.com/article/2015/11/student-activities-council-announces-new-chair) (Nov '15)
-* [Spring Club Recruitment](http://www.thedp.com/article/2016/01/spring-club-recruitment) (Jan '16)
-* [SAC Funding Breakdown](http://www.thedp.com/article/2016/03/sac-funding-breakdown) (Mar '16)
-* [Guest Column: UA President Endorsement](http://www.thedp.com/article/2016/03/guest-column-jesus-perez-billy-clarke-jeremy-cohen) (Mar '16)
+<p>SAC Coverage in <em>The Daily Pennsylvanian:</em></p>
+<ul>
+  <li><a href="http://www.thedp.com/article/2014/10/sac-gbm-october">October GBM: Elections</a> (Oct ‘14)</li>
+  <li><a href="http://www.thedp.com/article/2015/11/student-activities-council-announces-new-chair">Interview: New Chair</a> (Nov ‘15)</li>
+  <li><a href="http://www.thedp.com/article/2016/01/spring-club-recruitment">Spring Club Recruitment</a> (Jan ‘16)</li>
+  <li><a href="http://www.thedp.com/article/2016/03/sac-funding-breakdown">SAC Funding Breakdown</a> (Mar ‘16)</li>
+  <li><a href="http://www.thedp.com/article/2016/03/guest-column-jesus-perez-billy-clarke-jeremy-cohen">Guest Column: UA President Endorsement</a> (Mar ‘16)</li>
+</ul>
