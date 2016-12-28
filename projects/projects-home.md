@@ -17,4 +17,8 @@ permalink: /projects/home
 <div>&nbsp;</div>
 
 ## Greco-Roman Authors
-Interactive map for Greek and Latin authors of classical antiquity, with [full project page](/projects/greco-roman-authors/overview). Project completed under the supervision of Prof. James Ker for the Penn Undergrad Research Mentoring program in Jun-Aug 2015. HTML, JavaScript, SQL.
+An ongoing attempt to map, simply and intuitively, the births, deaths, and travels of major Greek and Latin authors.  
+* [Interactive map](/projects/greco-roman-authors/interactive-map.html) (web browser)
+* [Discussion](/projects/greco-roman-authors/background.html) of the theoretical background, acknowledgments, and links
+
+Better support for mobile (and most non-desktop screen sizes, and just about all other functionality) still underway. Consider it proof of concept, for now. At its heart, a proposal: approaching the ancient world's writers visually, geographically, and always in relation.  also available.

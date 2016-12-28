@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Honors Thesis (Abstract & Intro)"
-date:   2016-12-19
+title: "Honors Thesis (Abstract & Intro)"
+date: 2016-12-19
 tags: [classics, penn, plato]
 ---
 

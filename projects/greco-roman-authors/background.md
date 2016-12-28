@@ -6,7 +6,6 @@ exclude: true
 ---
 
 ### Theoretical Background
-(Back to project [overview](/projects/greco-roman-authors/overview.html).)
 
 Research in Classical Studies may not immediately seem like terra incognita (puns intended). Over the course of the summer, in collaboration with Prof. James Ker, I developed online, interactive maps to present basic information about Greek and Latin authors – the same set of 50- 100 long-dead individuals, having written in long-dead languages, read every year by students all over the world.
 
@@ -15,3 +14,15 @@ One implicit premise of Classics: few study its authors without context. Given l
 The goal of this project was not to redress centuries of scholarly uncertainty, but instead to consider: How might the tools available in the 21st century prove beneficial to a teacher of the first century? Already, huge movements are underway in Digital Humanities to mine, map, or graph voluminous quantities of data from volumes of historical or literary merit, compiling as much knowledge as humanly (or digitally) possible. At present, most of the databases are accessible to the limited number of scholars whose skills include both the classical world and the nuances of data science.
 
 I aimed to create interactive graphics that are simple, intuitive, and still rigorous in their precision. In order to bridge the gap between Pleiades geo-nomenclature and the final product, plus every step in between, I had to know (or learn by pretending to know) more Javascript and SQL than they teach in most Ancient Greek courses. The application of DH drew me to the project, but what really engaged me were the difficulties and rewards of creating intuitive pedagogy: so that modern students can visualize the life of an author who lived in an effectivelydifferent world, thousands of years ago. When a Latin student sees represented Terence’s North African origin and his mysterious disappearance at a young age, shown against the backdrop of an expanding Roman Republic, she might read his plays with that much more insight and empathy.
+
+### Acknowledgments
+
+This project would have been impossible without the mentorship & guidance of Prof. James Ker (Classical Studies, U. of Penn). Additional thanks to Ann Vernon-Grey and CURF for funding and institutional support throughout the PURM experience.
+
+On the technical side, many thanks to [Carto](https://carto.com/) (formerly CartoDB) and its development community, as well as the [Pleiades project](http://pleiades.stoa.org/) for big-picture inspiration.
+
+### Links
+
+* [Interactive map](/projects/greco-roman-authors/interactive-map.html)
+* [PURM final poster](/projects/greco-roman-authors/poster.pdf)
+* More information about PURM [here](http://www.upenn.edu/curf/research/grants/penn-undergraduate-research-mentoring-program) and [here](http://www.upenn.edu/curf/purm-faq)

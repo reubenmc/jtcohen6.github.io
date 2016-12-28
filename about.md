@@ -9,12 +9,16 @@ Salve!
 
 I'm a fourth-year student at Penn studying Classics and Statistics. My primary group on campus is [iNtuitons Experimental Theatre](http://www.intuitons.org), of which I'm  Chair, and I'll be directing *The Merchant of Venice* for Front Row Theatre Co. in April 2017. I've also been involved with the Student Activities Council, the Philomathean Society, Sphinx Senior Society, and the Penn Humanities Forum.
 
-While I don't yet know what I'm doing next year, having turned down a return offer to the world of NYC financial technology—there are a few possibilities floating in the air. I'm especially interested in the fields of journalism, theatre, (civil rights) law, higher education, and environmental policy.
+While I don't yet know what I'm doing next year, there are a few possibilities floating in the air. I'm especially interested in the fields of journalism, theatre, (civil rights) law, higher education, and environmental policy.
 
-Available on this site are some links, writing samples, and in-progress projects. There's also my [standard resume](/resume.pdf) and [theatrical resume](/theatrical_resume.pdf). If you're curious to know more, use the [contact form](/contact/form)! Messages go straight to my email inbox, and I like to think that I write good emails.
+* [Standard resume](/resume.pdf)
+* [Theatrical resume](/theatrical_resume.pdf)
+* [Contact form](/contact/form) -- Messages go straight to my email inbox, and I like to think that I write good emails.
 
 Until then,<br>
 Jeremy
+
+-----------------------
 
 ###### _Fine print:_ Website proudly powered by [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/). Font family is [Gentium Basic](https://fonts.google.com/specimen/Gentium+Basic), designed by Victor Gaultney.
 
