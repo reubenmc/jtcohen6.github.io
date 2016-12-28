@@ -19,7 +19,7 @@ permalink: /media/home
 
 iNtuitons' Alternative Theatre Festival 2016, [reviewed by 34th Street](http://www.34st.com/article/2016/09/the-alternative-theatre-festival-skydiving-and-fallopian-tubes)
 
-SAC Coverage in *The Daily Pennsylvanian:*
+SAC Coverage in *The Daily Pennsylvanian:*  
 * [October GBM: Elections](http://www.thedp.com/article/2014/10/sac-gbm-october) (Oct '14)
 * [Interview: New Chair](http://www.thedp.com/article/2015/11/student-activities-council-announces-new-chair) (Nov '15)
 * [Spring Club Recruitment](http://www.thedp.com/article/2016/01/spring-club-recruitment) (Jan '16)
