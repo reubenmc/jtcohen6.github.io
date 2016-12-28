@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 
-permalink: /contact/form
+permalink: /contact/
 ---
 
 

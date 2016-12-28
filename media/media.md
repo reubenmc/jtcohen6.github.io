@@ -2,7 +2,7 @@
 layout: default
 title: Media
 
-permalink: /media/home
+permalink: /media/
 ---
 
 ## Publications

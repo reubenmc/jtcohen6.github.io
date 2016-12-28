@@ -2,7 +2,7 @@
 layout: default
 title: Projects
 
-permalink: /projects/home
+permalink: /projects/
 ---
 
 ## Stat Final Projects

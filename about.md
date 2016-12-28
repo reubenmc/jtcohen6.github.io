@@ -13,7 +13,7 @@ While I don't yet know what I'm doing next year, there are a few possibilities f
 
 * [Standard resume](/resume.pdf)
 * [Theatrical resume](/theatrical_resume.pdf)
-* [Contact form](/contact/form) -- Messages go straight to my email inbox, and I like to think that I write good emails.
+* [Contact form](/contact/) -- Messages go straight to my email inbox, and I like to think that I write good emails.
 
 Until then,<br>
 Jeremy
