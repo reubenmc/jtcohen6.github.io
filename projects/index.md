@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Projects
-
-permalink: /projects/
 ---
 
 ## Stat Final Projects
@@ -17,8 +15,8 @@ permalink: /projects/
 <div>&nbsp;</div>
 
 ## Greco-Roman Authors
-An ongoing attempt to map, simply and intuitively, the births, deaths, and travels of major Greek and Latin authors.  
+An ongoing attempt to map, simply and intuitively, the births, deaths, and travels of major Greek and Latin authors.
 * [Interactive map](/projects/greco-roman-authors/interactive-map.html) (web browser)
-* [Discussion](/projects/greco-roman-authors/background.html) of the theoretical background, acknowledgments, and links
+* [Discussion](/projects/greco-roman-authors) of the theoretical background, acknowledgments, and links
 
 Better support for mobile (and most non-desktop screen sizes, and just about all other functionality) still underway. Consider it proof of concept, for now. At its heart, a proposal: approaching the ancient world's writers visually, geographically, and always in relation.  also available.

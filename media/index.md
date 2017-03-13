@@ -1,13 +1,11 @@
 ---
 layout: default
 title: Media
-
-permalink: /media/
 ---
 
 ## Publications
 
-* ["Lion Within: Plato's *Republic* in Roman Upper Egypt,"](/media/clst_honors.pdf) completed under the supervision of Prof. Peter Struck and submitted for honors consideration to the Department of Classical Studies
+* ["Lion Within: Plato's *Republic* in Roman Upper Egypt,"](/med/clst_honors.pdf) completed under the supervision of Prof. Peter Struck and submitted for honors consideration to the Department of Classical Studies
 * "Staging the Comic Foreigner: Plautus' Ethnic Humor," *Discentes*, Fall '16 (forthcoming)
 * ["Same-Sex Unions in the Politics of Ancient History,"](http://repository.upenn.edu/uhf_2016/10/) Penn Undergraduate Humanities Forum 2015-16: SEX, presented at [March 25 conference](https://www.phf.upenn.edu/events/points-contact)
 * ["Summer Stint in the Soil,"](http://repository.upenn.edu/discentesjournal/vol4/iss1/6/) (*Discentes* Fall '15), based on Penn Museum  [blog](https://www.penn.museum/blog/museum/travel-days-no-sleep-till-ben-gurion-jeremy-cohen/) [posts](https://www.penn.museum/blog/museum/the-work-goes-sub-awning-yawning-on-jeremy-cohen/) during Summer '15
