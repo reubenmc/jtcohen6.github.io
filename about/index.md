@@ -7,13 +7,9 @@ permalink: /about
 
 Salve!
 
-I'm a fourth-year student at Penn studying Classics and Statistics. My primary group on campus is [iNtuitons Experimental Theatre](http://www.intuitons.org), of which I'm  Chair, and I'll be directing *The Merchant of Venice* for Front Row Theatre Co. in April 2017. I've also been involved with the Student Activities Council, the Philomathean Society, Sphinx Senior Society, and the Penn Humanities Forum.
+I'm a fourth-year student at Penn studying Classics and Statistics. My primary group on campus was [iNtuitons Experimental Theatre](http://www.intuitons.org), of which I was recently  Chair, and I just finished directing *The Merchant of Venice* for Front Row Theatre Co. in April 2017. I've also been involved with the Student Activities Council, the Philomathean Society, Sphinx Senior Society, and the Penn Humanities Forum.
 
-While I don't yet know what I'm doing next year, there are a few possibilities floating in the air. I'm especially interested in the fields of journalism, theatre, (civil rights) law, higher education, and environmental policy.
-
-* [Standard resume](/resume.pdf)
-* [Theatrical resume](/theatrical_resume.pdf)
-* [Contact form](/contact/) -- Messages go straight to my email inbox, and I like to think that I write good emails.
+You can use the [contact form](/contact/) to reach out -- messages go straight to my email inbox, and I like to think that I write good emails.
 
 Until then,<br>
 Jeremy
