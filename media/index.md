@@ -12,9 +12,12 @@ title: Media
 * ["Writing as Reading in the Textual Tradition,"](http://repository.upenn.edu/discentesjournal/vol2/iss2/4/) *Discentes*, Spring '14)
 <div>&nbsp;</div>
 
-## In the News
+## "In the News"
 
-iNtuitons' Alternative Theatre Festival 2016, [reviewed by 34th Street](http://www.34st.com/article/2016/09/the-alternative-theatre-festival-skydiving-and-fallopian-tubes)
+* PennNews [story](https://news.upenn.edu/news/penn-student-theater-sparkles-platt-student-performing-arts-house) on Theatre Arts Council (quoted)
+* [Pennsylvania Gazette story on Prof. Peter Struck](http://thepenngazette.com/peter-strucks-odyssey/) (quoted)
+* "Locust Pocus" podcast [episode](https://soundcloud.com/dailypenn/locust-pocus-3-philo-and-esoterica?in=dailypenn/sets/locust-pocus#t=0:00) about Philo (interviewed)
+* iNtuitons' Alternative Theatre Festival 2016, [reviewed by 34th Street](http://www.34st.com/article/2016/09/the-alternative-theatre-festival-skydiving-and-fallopian-tubes)
 
 <p>SAC Coverage in <em>The Daily Pennsylvanian:</em></p>
 <ul>
