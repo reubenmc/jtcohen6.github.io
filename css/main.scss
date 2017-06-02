@@ -1,15 +1,17 @@
 ---
 ---
 @charset "utf-8";
-@import url(https://fonts.googleapis.com/css?family=Gentium+Basic);
+@import url(https://fonts.googleapis.com/css?family=Overpass:300,300i|Signika);
 
 
 // Our variables
-$base-font-family: "Gentium Basic", serif;
+$base-font-family: "Overpass", sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
+
+$title-font-family: "Signika";
 
 $spacing-unit:     30px;
 
