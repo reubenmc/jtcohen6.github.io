@@ -5,7 +5,7 @@ date: 2016-12-19
 tags: [classics, penn, plato]
 ---
 
-Why was an Egyptian-language fragment of Plato's *Republic* buried in a jar, in the middle of the desert, five hundred miles south of Alexandria? [(Full text PDF.)](/media/clst_honors.pdf)
+Why was an Egyptian-language fragment of Plato's *Republic* buried in a jar, in the middle of the desert, five hundred miles south of Alexandria?
 
 ### Abstract
 
