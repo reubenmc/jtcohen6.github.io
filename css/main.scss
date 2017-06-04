@@ -1,17 +1,18 @@
 ---
 ---
 @charset "utf-8";
-@import url(https://fonts.googleapis.com/css?family=Overpass:300,300i|Signika);
+@import url(https://fonts.googleapis.com/css?family=Catamaran|Lora:700i);
 
 
 // Our variables
-$base-font-family: "Overpass", sans-serif;
+$base-font-family: "Catamaran", sans-serif;
 $base-font-size:   16px;
-$base-font-weight: 400;
+$base-font-weight: 300;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$title-font-family: "Signika";
+$title-font-family: "Lora", sans-serif;
+$title-font-weight: 700;
 
 $spacing-unit:     30px;
 

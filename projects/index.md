@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Projects
+order: 4
 ---
 
 ## Stat Final Projects

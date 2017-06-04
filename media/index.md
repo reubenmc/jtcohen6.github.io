@@ -1,23 +1,16 @@
 ---
 layout: default
 title: Media
+order: 2
 ---
 
 ## "In the News"
 
 * PennNews [story](https://news.upenn.edu/news/penn-student-theater-sparkles-platt-student-performing-arts-house) on Theatre Arts Council (quoted)
-* [Pennsylvania Gazette story on Prof. Peter Struck](http://thepenngazette.com/peter-strucks-odyssey/) (quoted)
+* Pennsylvania Gazette [story](http://thepenngazette.com/peter-strucks-odyssey/) on Prof. Peter Struck (quoted)
 * "Locust Pocus" podcast [episode](https://soundcloud.com/dailypenn/locust-pocus-3-philo-and-esoterica?in=dailypenn/sets/locust-pocus#t=0:00) about Philo (interviewed)
-* iNtuitons' Alternative Theatre Festival 2016, [reviewed by 34th Street](http://www.34st.com/article/2016/09/the-alternative-theatre-festival-skydiving-and-fallopian-tubes)
-
-<p>SAC Coverage in <em>The Daily Pennsylvanian:</em></p>
-<ul>
-  <li><a href="http://www.thedp.com/article/2014/10/sac-gbm-october">October GBM: Elections</a> (Oct ‘14)</li>
-  <li><a href="http://www.thedp.com/article/2015/11/student-activities-council-announces-new-chair">Interview: New Chair</a> (Nov ‘15)</li>
-  <li><a href="http://www.thedp.com/article/2016/01/spring-club-recruitment">Spring Club Recruitment</a> (Jan ‘16)</li>
-  <li><a href="http://www.thedp.com/article/2016/03/sac-funding-breakdown">SAC Funding Breakdown</a> (Mar ‘16)</li>
-  <li><a href="http://www.thedp.com/article/2016/03/guest-column-jesus-perez-billy-clarke-jeremy-cohen">Guest Column: UA President Endorsement</a> (Mar ‘16)</li>
-</ul>
+* iNtuitons' Alternative Theatre Festival 2016, [reviewed](http://www.34st.com/article/2016/09/the-alternative-theatre-festival-skydiving-and-fallopian-tubes) by 34th Street
+* SAC Coverage in <em>The Daily Pennsylvanian:</em> <a href="http://www.thedp.com/article/2014/10/sac-gbm-october">October GBM: Elections</a> (Oct ‘14); <a href="http://www.thedp.com/article/2015/11/student-activities-council-announces-new-chair">Interview: New Chair</a> (Nov ‘15); <a href="http://www.thedp.com/article/2016/01/spring-club-recruitment">Spring Club Recruitment</a> (Jan ‘16); <a href="http://www.thedp.com/article/2016/03/sac-funding-breakdown">SAC Funding Breakdown</a> (Mar ‘16); <a href="http://www.thedp.com/article/2016/03/guest-column-jesus-perez-billy-clarke-jeremy-cohen">Guest Column: UA President Endorsement</a> (Mar ‘16)
 
 ## Speeches
 
