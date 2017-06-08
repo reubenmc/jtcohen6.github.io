@@ -19,8 +19,8 @@ takes refuge at the Temple of Apollo.
 And yet, *The Eumenides* is a strange breed of tragedy; it ends with
 everyone still on his feet. The conclusion is a legal reform, like one
 many Athenians underwent in the sixth century. But the *Oresteia* begins
-with the family of Agamemnon, who returns from Troy in the 12<sup>th</sup>
-century BCE —the preliterate, honor-driven world of Homer. And the
+with the family of Agamemnon, who returns from Troy in the 12th
+century BCE&mdash;the preliterate, honor-driven world of Homer. And the
 Furies, borrowing attributes of every female death-spirit in the Greek
 imagination, stretch back even further to the shadows of primordial
 creation and “eye-for-an-eye” justice. The old gods vie against the new
