@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Media
+title: media
 order: 2
 ---
 

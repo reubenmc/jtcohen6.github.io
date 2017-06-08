@@ -1,7 +1,7 @@
 ---
 ---
 @charset "utf-8";
-@import url(https://fonts.googleapis.com/css?family=Catamaran|Lora:700i);
+@import url(https://fonts.googleapis.com/css?family=Mate+SC|Catamaran:300,600|Lora:700i);
 
 
 // Our variables
@@ -14,15 +14,17 @@ $base-line-height: 1.5;
 $title-font-family: "Lora", sans-serif;
 $title-font-weight: 700;
 
+$small-caps-family: "Mate SC", sans-serif;
+
 $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$accent-color:       #6495ED;
+$accent-color-light: lighten($accent-color, 20%);
+$accent-color-dark:  darken($accent-color, 25%);
 
 // Width of the content area
 $content-width:    800px;
@@ -51,5 +53,6 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
+        "smart-underline",
         "syntax-highlighting"
 ;

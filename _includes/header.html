@@ -4,10 +4,10 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a class="site-title" href="{{ site.baseurl }}/">{% include initials.svg %}{{ site.title }}</a>
 
     <nav class="site-nav">
-      <a href="#" class="menu-icon">
+      <a href="#" class="menu-icon">{% include initials.svg %}
       </a>
 
       <div class="trigger">
@@ -15,7 +15,7 @@
         {% for my_page in sorted_pages %}
           {% unless my_page.exclude %}
             {% if my_page.title %}
-            <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+            <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}"><strong>{{ my_page.title }}</strong></a>
             {% endif %}
           {% endunless %}
         {% endfor %}

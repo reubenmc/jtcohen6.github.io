@@ -27,6 +27,22 @@ body {
     overflow-y: scroll;
 }
 
+::selection {
+		color: $text-color;
+		background: $accent-color-light;
+}
+::-moz-selection {
+    color: $text-color;
+		background: $accent-color-light;
+}
+
+
+em {
+    font-style: normal;
+    font-family: $small-caps-family;
+    text-transform: lowercase;
+}
+
 /* Scrollbar */
 ::-webkit-scrollbar {
     width: 3px;
@@ -34,17 +50,17 @@ body {
 
 /* Track */
 ::-webkit-scrollbar-track {
-    -webkit-box-shadow: inset 0 0 6px $grey-color-light;
+    -webkit-box-shadow: inset 0 0 6px $accent-color-light;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
     -webkit-border-radius: 10px;
     border-radius: 10px;
-    background: $grey-color-dark;
+    background: $accent-color-dark;
 }
 ::-webkit-scrollbar-thumb:window-inactive {
-	background: $grey-color-dark;
+	background: $accent-color-dark;
 }
 
 /**
@@ -113,7 +129,6 @@ li {
 h1, h2, h3, h4, h5, h6 {
     font-family: $title-font-family;
     font-weight: $title-font-weight;
-
 }
 
 
@@ -125,31 +140,17 @@ a {
     color: $brand-color;
     text-decoration: none;
     cursor: pointer;
-
-    &:visited {
-        color: darken($brand-color, 15%);
-        &:hover {
-            font-weight: bold;
-        }
-    }
-
-    &:hover {
-        font-weight: bold;
-    }
 }
-
-
 
 /**
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    color: $accent-color;
+    border-left: 4px solid $accent-color-light;
     padding-left: $spacing-unit / 2;
     font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
+    //letter-spacing: -1px;
 
     > :last-child {
         margin-bottom: 0;
@@ -158,7 +159,7 @@ blockquote {
 
 .postscript {
     font-size: $small-font-size;
-    color: $grey-color;
+    color: $accent-color;
 }
 
 
@@ -169,7 +170,7 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $grey-color-light;
+    border: 1px solid $accent-color-light;
     border-radius: 3px;
     background-color: #eef;
 }
@@ -232,16 +233,14 @@ pre {
  */
 .icon {
 
-  text-decoration: none !important;
-
     > svg {
         display: inline-block;
-        width: 16px;
-        height: 16px;
+        width: 18px;
+        height: 18px;
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: $accent-color;
         }
     }
 }
@@ -249,7 +248,7 @@ pre {
 .icon a:active, a:hover {
   > svg {
       path {
-          fill: $grey-color-dark;
+          fill: $accent-color-dark;
       }
   }
 }
