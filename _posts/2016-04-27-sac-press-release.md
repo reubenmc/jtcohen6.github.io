@@ -5,7 +5,7 @@ date: 2016-04-27
 tags: [penn]
 ---
 
-*Circulated at the end of the 2015-16 academic year, during which I had the pleasure to serve as  Chair of the Student Activities Council.*
+(Circulated at the end of the 2015-16 academic year, during which I had the pleasure to serve as  Chair of the Student Activities Council.)
 
 As in every year, SAC was excited to organize and host both the **Fall
 and Spring Activities Fairs**, with some 450 and 200 groups

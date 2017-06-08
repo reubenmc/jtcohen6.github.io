@@ -2,7 +2,7 @@
 layout: post
 title: "Honors Thesis (Abstract & Intro)"
 date: 2016-12-19
-tags: [classics, penn, plato]
+tags: [classics]
 ---
 
 Why was an Egyptian-language fragment of Plato's *Republic* buried in a jar, in the middle of the desert, five hundred miles south of Alexandria?
@@ -17,14 +17,14 @@ Building upon previous scholarship, this paper will contend that the
 excerpt was included as a necessary reference for understanding the
 seventh logion of *The Gospel of Thomas*, a non-canonical early
 Christian wisdom-text. Plato *Rep.* IX 588a-589b relates a parable that
-solves this difficult saying of the risen Jesus. When, in the 4<sup>th</sup>
+solves this difficult saying of the risen Jesus. When, in the 4th
 century, an audience member could not be guaranteed a background in
 classical Greek philosophy, the Coptic excerpt of *Rep.* IX could fill
 in the gap. It is not a perfect translation, however, with shifted
 emphasis and tone. This study’s additional goal is to demonstrate that
 this shift is explicable within the history of Roman Egypt, and
 analogous to broader changes in Christian hermeneutics and canonicity
-between the 2<sup>nd</sup> and 4<sup>th</sup> centuries.
+between the 2nd and 4th centuries.
 
 ### Introduction
 
@@ -55,7 +55,7 @@ reference to the lion-man Platonic motif.
 modern times, one of the most influential texts found in Coptic, in its
 entirety, near Nag Hammadi, Egypt. *Thomas* does not read like a
 canonical Christian gospel. It is structured into clustered sayings
-(‘logia’), thus sharing a genre with wisdom-texts of the 2<sup>nd</sup> century,
+(‘logia’), thus sharing a genre with wisdom-texts of the 2nd century,
 such as the *Chaldean Oracles* and the *Hermetica.* These works are
 contemporaries of *Thomas*, too, as the majority of scholars place its
 composition in Greek or Syriac between 40 and 140 AD, the latest being
@@ -95,7 +95,7 @@ Judeo-Christian milieu solve this puzzle. There is a lion-deity trope
 found more generally outside the canonical Christian tradition, in some
 Jewish and Gnostic sources. Israel and Yahweh are identified with or
 compared to a lion.[^6] Cosmogenic works, such as the *Pistis Sophia*
-(discovered in late 18<sup>th</sup> century) and *Apocryphon of John* (NHC II),
+(discovered in late 18th century) and *Apocryphon of John* (NHC II),
 imagine the Old Testament demiurge Yaldabaoth to have the face of a lion
 (*leontoeides*).[^7] Yet these negative portrayals of the lion as an Old
 Testament, devilish, and Earth-bound figure do not agree with the
@@ -119,7 +119,7 @@ NH Codex II. This is an argument advanced by both Jackson (1985) and
 Lanzillotta (2013), the two most thorough investigators. Stances taken
 by other scholars will receive more discussion below, but their
 offerings are not as much alternative hypotheses as healthy skepticism.
-Would the 4<sup>th</sup>-century Coptic-writer have known the excerpt to be
+Would the 4th-century Coptic-writer have known the excerpt to be
 Plato? Could they have unknowingly copied down the *Republic* fragment,
 thinking it a Hermetic text or just an interesting passage? It is
 impossible to disprove these scenarios entirely, but the specificity of
@@ -139,7 +139,7 @@ mentioned above, the evidence and scholarly consensus put *Thomas’*
 original composition in Greek or Syriac between 40 and 140 AD, and
 certainly no later than 250. The full version of *Thomas* available to
 modern readers is in Coptic, from Nag Hammadi. The entire NH collection
-is dated no earlier than the middle of the 4<sup>th</sup> century. The
+is dated no earlier than the middle of the 4th century. The
 manuscripts may have been buried after Athanasius, Archbishop of
 Alexandria, condemned heretical religious texts in 367,[^9] although
 scholars are careful to note that this is “mere speculation.”[^10] This
@@ -148,8 +148,8 @@ the original cluster-composition of *Thomas* and (2) the translation,
 revision, and collection of Coptic texts that were eventually buried
 near this Pachomian monastery in Upper Egypt.
 
-The geopolitical and socioeconomic differences between 2<sup>nd</sup>-century
-Alexandria and 4<sup>th</sup>-century Upper Egypt are considerable. In the larger
+The geopolitical and socioeconomic differences between 2nd-century
+Alexandria and 4th-century Upper Egypt are considerable. In the larger
 empire, E.R. Dodds saw in the Marcus Aurelius’ reign (161-180) the start
 of an ‘Age of Anxiety’, a Rome obsessed by peripheral wars and
 backward-looking classicism. Speaking broadly about the latter
@@ -211,7 +211,7 @@ Hellenistic philosophy (including the lion-man motif) and embracing a
 multifaceted appreciation for its seventh logion. This first group would
 not require a Coptic translation of a Platonic commonplace. Instead, the
 Coptic *Republic* fragment makes sense for a second audience:
-semi-literate readers and hearers in 4<sup>th</sup>-century Upper Egypt, *de
+semi-literate readers and hearers in 4th-century Upper Egypt, *de
 facto* excluded from the wealth, learning, and Hellenism of the Roman
 Near East. For them, perhaps practicing semi-canonical Christianity, the
 codices of Nag Hammadi could be an anthologized compendium of apocryphal
@@ -223,7 +223,7 @@ and Augustine: various versus linear, multifaceted versus
 straightforward, textual versus rhetorical, literary versus liturgical.
 In the first case, if *The Gospel of Thomas* existed within a broad
 Greco-Christian philosophical frame and was read by hermeneutical
-circles of 2<sup>nd</sup>- and 3<sup>rd</sup>-century Alexandrians not unlike those of
+circles of 2nd- and 3rd-century Alexandrians not unlike those of
 Philo and Origen, Plato can be allegorized into *Thomas* 7 with layers
 of literal, metaphorical, and spiritual meaning. In the second case, if
 *Thomas* existed as apocryphal scripture for a semi-heretical,
@@ -232,7 +232,7 @@ motif existed necessarily and sufficiently as a precise allegorical
 tool. The goal was linear progression, from fixed words to final
 revelation: ‘Apply directly to logion 7.’ This second interpretive frame
 is analogous to (and contemporaneous with) Augustine’s method in the
-4<sup>th</sup> and 5<sup>th</sup> centuries, whereby an all-encompassing and omniscient
+4th and 5th centuries, whereby an all-encompassing and omniscient
 Word solves itself by moving from ‘signs’ to ‘things’. Perhaps working
 from the notes of his forebears several generations earlier, the
 translator-redactor of Coptic Plato considered the *Republic* excerpt a
@@ -251,8 +251,8 @@ allegorical practice and canonicity, musing on potential connections and
 implications. This three-part, five-act study offers explanatory power
 for the ultimate mystery—why *Rep.* IX 588a-589b, why in Coptic, why in
 Nag Hammadi?—by distinguishing between the two literary-historical
-contexts: (1) 2<sup>nd</sup>-century Greek-readers, with a broad hermeneutical
-frame that relies on fluency in Greek philosophy; (2) 4<sup>th</sup>-century
+contexts: (1) 2nd-century Greek-readers, with a broad hermeneutical
+frame that relies on fluency in Greek philosophy; (2) 4th-century
 pseudo-Christians, reading or hearing in Coptic, with a hermeneutic that
 privileges verbatim truth and linear progression toward revelation.
 
@@ -312,7 +312,7 @@ privileges verbatim truth and linear progression toward revelation.
     it connotes.
 
 [^9]: James M. Robinson, “Introduction”, in *The Nag Hammadi Library in
-    English* 4<sup>th</sup> ed. (Leiden: Brill, 1996), 16-19.
+    English* 4th ed. (Leiden: Brill, 1996), 16-19.
 
 [^10]: David Brakke, “Canon Formation and Social Conflict in
     Fourth-Century Egypt: Athanasius of Alexandria’s Thirty-Ninth
