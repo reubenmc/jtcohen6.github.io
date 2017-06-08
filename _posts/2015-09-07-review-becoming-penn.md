@@ -48,8 +48,7 @@ early nineties gave way to falling rates in the late nineties and early
 respective terms in presidential offices. Job-training programs through
 manufacturing unions, finally inclusive of racial minorities, were a
 decade too late for global markets. Since the late nineties, urban real
-estate prices have skyrocketed nationally, even after bubble-bursting in
-2007. Penn’s actions still matter, of course—that is decidedly true—but
+estate prices have skyrocketed nationally, even after bubble-bursting in 2007. Penn’s actions still matter, of course—that is decidedly true—but
 its case is more complicated than paternalistic benefactor or
 self-serving land-grabber.
 
