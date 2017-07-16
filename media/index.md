@@ -23,5 +23,5 @@ order: 2
 * ["Same-Sex Unions in the Politics of Ancient History,"](http://repository.upenn.edu/uhf_2016/10/) Penn Undergraduate Humanities Forum 2015-16: SEX, presented at [March 25 conference](https://www.phf.upenn.edu/events/points-contact)
 * ["Summer Stint in the Soil,"](http://repository.upenn.edu/discentesjournal/vol4/iss1/6/) (*Discentes* Fall '15), based on Penn Museum  [blog](https://www.penn.museum/blog/museum/travel-days-no-sleep-till-ben-gurion-jeremy-cohen/) [posts](https://www.penn.museum/blog/museum/the-work-goes-sub-awning-yawning-on-jeremy-cohen/) during Summer '15
 * "A *Symposium* Like No Other," *Discentes* Spring '15 (unfortunately no link available)
-* ["Writing as Reading in the Textual Tradition,"](http://repository.upenn.edu/discentesjournal/vol2/iss2/4/) *Discentes*, Spring '14)
+* ["Writing as Reading in the Textual Tradition,"](http://repository.upenn.edu/discentesjournal/vol2/iss2/4/) *Discentes*, Spring '14
 <div>&nbsp;</div>
