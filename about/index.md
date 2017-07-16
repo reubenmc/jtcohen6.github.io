@@ -6,7 +6,7 @@ order: 1
 
 Recent Penn grad. On track to be well read in ancient philosophy, religion, ethnicity, performance, and Greco-Roman history. Also: languages, reading/writing/editing, computational statistics, leadership, trivial knowledge, at least somewhat funny.
 
-![me](/about/me.jpg)
+<div class="image-right"><img src="/images/me.jpg" alt="me" /></div>
 
 <div>&nbsp;</div>
 

@@ -4,20 +4,21 @@ title: projects
 order: 4
 ---
 
-## Stat Final Projects
-
-[Ranking American Universities](/projects/stat471final): Final project for a course in "Modern Data Mining", May 2016. All data collection, collation, and cleaning was my own. Data-science methods included LASSO and decision-tree. Inspired by a (lengthy) paper written in fall 2015 on service-learning in higher education.
-
-[Pre-Modern Dutch Urban Development](/projects/stat520final): Final project for first of two-course series in "Applied Econometrics", Dec 2016. Duplication of *Economica* paper by İ. Semih Akçomak, Dinand Webbink and Bas ter Weel (2016), with comments and criticism. Econometric methods included ordinary least-squares and two-stage least squares regression.
-<div>&nbsp;</div>
-
-## Emerging Markets in the News, 2006-2016
-[External link to Devpost](http://devpost.com/software/emerging-markets-in-the-news-2006-2016). Project for PennApps XIII, Jan 2016, in partnership with [Raghav Joshi](https://raghavjoshi.firebaseapp.com/) and with technical assistance from [Gus Wynn](http://guswynn.github.io/).
-<div>&nbsp;</div>
-
-## Greco-Roman Authors
-An ongoing attempt to map, simply and intuitively, the births, deaths, and travels of major Greek and Latin authors.
-* [Interactive map](/projects/greco-roman-authors/interactive-map.html) (web browser)
-* [Discussion](/projects/greco-roman-authors) of the theoretical background, acknowledgments, and links
-
-Better support for mobile (and most non-desktop screen sizes, and just about all other functionality) still underway. Consider it proof of concept, for now. At its heart, a proposal: approaching the ancient world's writers visually, geographically, and always in relation.  also available.
+<ul class="project-list">
+<li><div><a href="stat-final-projects">
+  <img src="/images/table.png" alt="" />
+  <h2 class="project-caption"><span>Statistics & Econometrics<span class="spacer"></span><br/><span class="spacer"></span>Course Final Projects</span></h2>
+</a></div></li>
+<li><div><a href="http://devpost.com/software/emerging-markets-in-the-news-2006-2016">
+  <img src="/images/pennapps.png" alt="" />
+  <h2 class="project-caption"><span>Emerging Markets in the News<span class="spacer"></span><br/><span class="spacer"></span>PennApps XIII</span></h2>
+</a></div></li>
+<li><div><a href="merchant-overview.pdf">
+  <img src="/images/merchant.jpg" alt="" />
+  <h2 class="project-caption"><span>The Merchant<span class="spacer"></span><br/><span class="spacer"></span>of Venice</span></h2>
+</a></div></li>
+<li><div><a href="greco-roman-authors">
+  <img src="/images/greco-roman.png" alt="" />
+  <h2 class="project-caption"><span>Greco-Roman Authors<span class="spacer"></span><br/><span class="spacer"></span>Interactive Map</span></h2>
+</a></div></li>
+</ul>
