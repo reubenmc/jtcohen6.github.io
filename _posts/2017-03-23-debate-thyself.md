@@ -74,7 +74,7 @@ opponents’ arguments with more intuition and charisma and less
 speed-read evidence. We were self-taught in a debate world that, while
 hard and political and socioeconomically problematic, we could call our
 home on day one. Yet, after walking across the campus of an elite school
-and seeing familiar faces, we still thought **we** were the outsiders.
+and seeing familiar faces, we still thought *we* were the outsiders.
 
 I admire, respect, and look up to Ryan Walsh after he won the National
 Debate Tournament. I guess that’s part of the point. I wonder if I’d

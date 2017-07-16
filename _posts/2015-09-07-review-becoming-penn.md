@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review"
+title:  "Review: Becoming Penn"
 date:   2015-09-07
 tags: [penn, philadelphia]
 ---
@@ -92,5 +92,5 @@ legacy now offers to its students a nuanced case study, close to home.
 
 <p>&nbsp;</p>
 <p class="postscript">
-Originally written for Dr. Ira Harkavy&#8217;s fall 2015 course (and Collaborative Action Seminar), &lsquo;Urban-University Community Relations.&rsquo; Revised 1 Jun 17.
+Originally written for Dr. Ira Harkavy&#8217;s fall 2015 course (and Collaborative Action Seminar), &lsquo;Urban-University Community Relations.&rsquo;, on 7 Sept 15. Revised 1 Jun 17.
 </p>

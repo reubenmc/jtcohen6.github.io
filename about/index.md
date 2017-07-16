@@ -13,7 +13,7 @@ Recent Penn grad. On track to be well read in ancient philosophy, religion, ethn
 **Believer:** scientific method, climate change, open data, thought experiments, nonprofit theatre.  
 **Skeptic:** gig economy, black boxes, P-hacking, zero-sum games.
 
-I spent a lot of the last four years with iNtuitons Experimental Theatre, the Student Activities Council, the Philomathan Society, Sphinx Senior Society, and the Penn Humanities Forum. I also spent the past few months directing *The Merchant of Venice* for Front Row Theatre Co., with performances on April 6-8.
+I spent a lot of the last four years with iNtuitons Experimental Theatre, the Student Activities Council, the Philomathan Society, Sphinx Senior Society, and the Penn Humanities Forum. I also spent the past few months directing *The Merchant of Venice* for Front Row Theatre Co., with performances on April 6-8, which I've included in [projects](/projects).
 
 The best way to reach me is by email: **jerco** at **sas** dot **upenn** dot **edu**.
 
