@@ -24,10 +24,8 @@ I love theatre, enough to love it even when I hate it. I spent four years on the
 I try to read a lot, with an aspiration toward longer-form journalism, and I'll read anything with Nathan Heller, Jia Tolentino, Adam Gopnik, Ta-Nehisi Coates, Maggie Haberman, or David Farenthold in the byline (in no particular order). Most recently, I've been reading a number of UX/UI blogs and coming to realize that (for all my qualms about [freelancing](http://www.newyorker.com/magazine/2017/05/15/is-the-gig-economy-working), [the tech industry](https://www.theatlantic.com/magazine/archive/2017/04/why-is-silicon-valley-so-awful-to-women/517788/), [pop psychology](https://uxdesign.cc/ux-psychology-go-hand-in-hand-how-gestalt-theory-appears-in-ux-design-18b727343da8)) it's a practice I find interesting. I believe in the value of things like user research, font choices, and front-end web development, but these are skills I have only informally and I shrink at using the word "designer.""
 
 **What are you doing right now?**  
-At this very moment, I'm writing an FAQ section on my personal website because . My current full-time occupation is figuring out what I should be doing full-time. To afford my South Philly rent and weekly CSA, I work remotely on various technical projects for the [Society for Classical Studies](https://classicalstudies.org/) and, over the next few months, I'm working part-time for [Kol Tzedek](http://www.kol-tzedek.org/), a Reconstructionist synagogue in West Philly. Other than that, I spend a lot of time reading and thinking about writing.
+At this very moment, I'm writing an FAQ section on my personal website because...  
+I work part-time as an operations & events coordinator at [Kol Tzedek](http://www.kol-tzedek.org/), a Reconstructionist synagogue in West Philly, and remotely on various technical projects for the [Society for Classical Studies](https://classicalstudies.org/) I spend a lot of time reading and thinking about writing.
 
 **Where do you see yourself in five years?**  
 I wish I could give an answer that dignifies the seriousness of the question. As it is, I don't pretend to know what my life looks like five months from now, let alone five years. I've only ever had permanent residence on the East Coast of the United States, but all conditions are subject to change without advance notice or approval.
-
-**That's great. So what kind of graduate school?**  
-Education or law seem likeliest. Maybe humanities academia. Maybe economics.
