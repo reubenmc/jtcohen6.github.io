@@ -7,6 +7,8 @@ tags: [classics]
 
 Why was an Egyptian-language fragment of Plato's *Republic* buried in a jar, in the middle of the desert, five hundred miles south of Alexandria?
 
+Working Title: **The Lion Within: Plato's _Republic_ in Roman Egypt**
+
 ### Abstract
 
 The discovery, at Nag Hammadi in 1945, of a sealed jar filled with

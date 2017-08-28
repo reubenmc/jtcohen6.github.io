@@ -2,7 +2,7 @@
  * Smart link underlines
  */
 
-@mixin smart-underline($background: $background-color, $text: $accent-color, $selection: $accent-color-light, $position: 83%){
+@mixin smart-underline($background: $background-color, $text: $accent-color, $selection: $accent-color-light, $position: 100%){
 	a {
 		color: inherit;
 		text-decoration: none;
