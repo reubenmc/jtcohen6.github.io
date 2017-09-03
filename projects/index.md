@@ -2,6 +2,7 @@
 layout: default
 title: projects
 order: 4
+exclude: true
 ---
 
 <ul class="project-list">

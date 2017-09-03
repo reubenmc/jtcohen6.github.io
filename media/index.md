@@ -2,6 +2,7 @@
 layout: default
 title: media
 order: 2
+exclude: true
 ---
 
 ## "In the News"
