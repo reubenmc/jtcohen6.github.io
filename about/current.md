@@ -2,6 +2,7 @@
 layout: default
 title: current
 order: 1
+permalink: /about/current
 ---
 
 What I'm up to in the months of September and October:

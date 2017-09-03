@@ -2,6 +2,7 @@
 layout: page
 title: f a q
 order: 2
+permalink: /about/faq
 ---
 
 **What did you study in college?**  
