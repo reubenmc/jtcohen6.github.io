@@ -16,23 +16,29 @@ There are very good reasons for pursuing a liberal arts degree (see: hiring [tre
 
 Contrary to expectations, I'm quite employable, in some ways I can control and in [others I can only acknowledge](http://www.nber.org/digest/sep03/w9873.html). I developed a lot of event-planning, communications, and organization-development skills through my college extracurriculars, on par with experiences at many entry- or mid-level positions. I spent June and July of 2016 as an intern in the Aladdin Client Services division of BlackRock, after winning a prize for [use of an Aladdin API at the PennApps XIII](https://devpost.com/software/emerging-markets-in-the-news-2006-2016) hackathon the previous January.
 
-At this point, I would like to be involved in an industry I find meaningful or with an organization whose mission I admire. Right now, that looks like the arts, local government, journalism, and the non-profit sector.
+At this point, I would like to be involved in an industry I find meaningful or with an organization whose mission I admire. For now, that looks like the [third sector](https://en.wikipedia.org/wiki/Third_sector) or the [fourth estate](https://en.wikipedia.org/wiki/Fourth_Estate).
 
 **Tell me about some of your other interests.**  
 I love theatre, enough to love it even when I hate it. I spent four years on the board of iNtuitons, an "experimental" student theatre group at Penn. This past spring, I directed [*The Merchant of Venice*](/projects/merchant-overview.pdf) for Front Row, Penn's "socially relevant" theatre group.
 
-I also found my way into government as Chair of the Student Activities Council and confusingly exclusive clubs (Philomathean Society, Sphinx Senior Society) where, honestly, what I signed up for and what I got out of it were very different things.
+I also found my way into (student/organizational/financial) governance as Chair of the Student Activities Council and some oddly exclusive clubs (Philomathean Society, Sphinx Senior Society) where, honestly, what I signed up for and what I got out were somewhat different things.
 
-I try to read a lot, with an aspiration toward longer-form journalism, and I'll read anything with Nathan Heller, Jia Tolentino, Adam Gopnik, Ta-Nehisi Coates, Maggie Haberman, or David Farenthold in the byline (in no particular order). Most recently, I've been reading a number of UX/UI blogs and coming to realize that (for all my qualms about [freelancing](http://www.newyorker.com/magazine/2017/05/15/is-the-gig-economy-working), [the tech industry](https://www.theatlantic.com/magazine/archive/2017/04/why-is-silicon-valley-so-awful-to-women/517788/), [pop psychology](https://uxdesign.cc/ux-psychology-go-hand-in-hand-how-gestalt-theory-appears-in-ux-design-18b727343da8)) it's a practice I find interesting. I believe in the value of things like user research, font choices, and front-end web development, but these are skills I have only informally and I shrink at using the word "designer"—even when it's theatrical lighting.
+I try to read a lot, with an aspiration toward longer-form journalism, and I'll read anything with Nathan Heller, Jia Tolentino, Adam Gopnik, Ta-Nehisi Coates, Maggie Haberman, or David Farenthold in the byline (in no particular order). Rather separately, I've been reading some UX/UI blogs and coming to realize that (for all my qualms about [freelancing](http://www.newyorker.com/magazine/2017/05/15/is-the-gig-economy-working), [the tech industry](https://www.theatlantic.com/magazine/archive/2017/04/why-is-silicon-valley-so-awful-to-women/517788/), [pop psychology](https://uxdesign.cc/ux-psychology-go-hand-in-hand-how-gestalt-theory-appears-in-ux-design-18b727343da8)) it's a practice I find interesting. I identify with many aspects of ["design thinking"](https://medium.com/@cwodtke/how-i-stopped-worrying-and-learned-to-love-design-thinking-f1142bab60e8) and I believe in the value of things like user research, font choices, and front-end web development, but these are skills I have only informally and I shrink at using the word "designer", whether for websites or theatrical lighting.
 
 **What are you doing right now?**  
-At this very moment, I'm writing an FAQ section on my personal website because. If that's not the kind of answer you're looking for, I recommend going [here](/about/current).
+At this very moment, I'm writing an FAQ section on my personal website because. If that's not the kind of answer you're looking for, I recommend looking [here](/about/current).
 
 **Where do you see yourself in five years?**  
-I wish I could give an answer that dignifies the seriousness of the question. As it is, I don't pretend to know what my life looks like five months from now, let alone five years. I've only ever had permanent residence on the East Coast of the United States, but all conditions are subject to change without advance notice or approval.
+I wish I could give an answer that dignifies the seriousness of the question. As it is, I don't pretend to know what my life looks like five months from now, let alone five years. I've only ever had permanent residence on the East Coast of the United States, but I'm an at-will employee of life and all conditions are subject to change without advance notice or approval.
+
+&nbsp;
 
 ---
-###### Fine print: Website (such as it is) proudly powered by [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/).  Fonts are [Catamaran](https://fonts.google.com/specimen/Catamaran) by Pria Ravichandran, [Mate SC](https://fonts.google.com/specimen/Mate+SC) by Eduardo Tunni (small caps), [Lora](https://fonts.google.com/specimen/Lora) by Cyreal (titles), and [Cardo](https://fonts.google.com/specimen/Cardo") by David Perry (Greek extended). Smart underlining based on work of James Musgrave ([GitHub](https://gist.github.com/jamesmusgrave/d23b9d2f42ffdddd40c5)), Adam Schwartz ([Eager](https://eager.io/blog/smarter-link-underlines/)), and Marcin Wichary ([Medium](https://medium.design/crafting-link-underlines-on-medium-7c03a9274f9)).
+
+&nbsp;
+
+<small> **Did you make this website? (_or:_ Where's the Wordpress/Squarespace logo?**)  
+Yes. This site (such as it is) is powered by [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/).  Fonts are [Inconsolata](https://fonts.google.com/specimen/Inconsolata) by Raph Levien, [Merriweather](https://fonts.google.com/specimen/Mate+SC) by Sorkin Type (titles), and [Alegreya Sans SC](https://fonts.google.com/specimen/Alegreya+Sans+SC) by Juan Pablo de Peral (small caps, instead of italics, because I read about it [somewhere](http://practicaltypography.com/small-caps.html)). Smart underlining is my own work, with inspiration and guidance from James Musgrave ([GitHub](https://gist.github.com/jamesmusgrave/d23b9d2f42ffdddd40c5)), Adam Schwartz ([Eager](https://eager.io/blog/smarter-link-underlines/)), and Marcin Wichary ([Medium](https://medium.design/crafting-link-underlines-on-medium-7c03a9274f9)).
 
 <div align="right" class="footer-license">
   <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
