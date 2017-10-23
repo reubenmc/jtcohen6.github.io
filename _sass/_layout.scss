@@ -33,6 +33,10 @@
     color: $accent-color-dark;
 }
 
+.initials {
+  @include media-query($on-palm) { display: none; }
+}
+
 .site-nav {
     float: left;
     line-height: $base-line-height;

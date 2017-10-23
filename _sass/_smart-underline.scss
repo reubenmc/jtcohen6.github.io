@@ -45,6 +45,11 @@
 			text-shadow: 0.03em 0 $background, -0.03em 0 $background, 0 0.03em $background, 0 -0.03em $background, 0.06em 0 $background, -0.06em 0 $background, 0.09em 0 $background, -0.09em 0 $background, 0.12em 0 $background, -0.12em 0 $background, 0.15em 0 $background, -0.15em 0 $background;
 			background-position-y: $position, $position, $position;
 			background-position-x: 0%, 100%, 0%;
+
+		@include media-query($on-palm) {
+				background: none;
+				text-shadow: none;
+			}
 		}
 
 	}
