@@ -2,13 +2,24 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $accent-color-dark;
-    border-bottom: 1px solid $accent-color-dark;
-    background-color: $background-color;
-    min-height: 56px;
 
-    // Positioning context for the mobile navigation icon
-    position: relative;
+  background-color: $background-color;
+
+    float: left;
+    padding: $spacing-unit;
+    bottom: 0px;
+
+    @include media-query($on-palm) {
+        position: relative;
+        float: none;
+        padding: 0px;
+        left: 0px;
+        top: 0px;
+        height: 56px;
+        border-top: 5px solid $accent-color-dark;
+        border-bottom: 1px solid $accent-color-dark;
+        // min-height: 56px;
+      }
 }
 
 .site-title {
@@ -19,12 +30,12 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    color: $text-color;
+    color: $accent-color-dark;
 }
 
 .site-nav {
-    float: right;
-    line-height: 56px;
+    float: left;
+    line-height: $base-line-height;
 
     .menu-icon {
         display: none;
@@ -32,12 +43,17 @@
 
     .page-link {
         color: $text-color;
+        font-family: $title-font-family;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
-        &:not(:last-child) {
-            margin-right: 20px;
-        }
+      //  &:not(:last-child) {
+      //      margin-right: 20px;
+      //  }
+    }
+
+    .header-social {
+        padding-top: $spacing-unit;
     }
 
     @include media-query($on-palm) {
@@ -48,6 +64,10 @@
         border: 1px solid $accent-color-light;
         border-radius: 5px;
         text-align: right;
+        line-height: 56px;
+
+        .break { display: none; }
+        .header-social { display: none; }
 
         .menu-icon {
             display: block;
@@ -96,8 +116,11 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $accent-color-light;
-    padding: $spacing-unit 0;
+    display: none;
+    @include media-query($on-palm) {
+      display: block;
+      border-top: 1px solid $accent-color-light; }
+      padding: $spacing-unit;
 }
 
 .footer-heading {
@@ -121,7 +144,11 @@
 .footer-col {
     float: right;
     margin-bottom: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
+
+    @include media-query($on-palm) {
+      float: right;
+      padding-left: $spacing-unit / 2;
+    }
 }
 
 .footer-col-1 {
@@ -165,7 +192,10 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: $spacing-unit;
+    margin-top: $spacing-unit;
+    margin-left: 178px;
+    @include media-query($on-palm) { margin-left: 0px; }
 }
 
 .page-heading {
@@ -200,11 +230,11 @@
 
 .image-right > img {
     float:right;
-    width:50%;
+    width:40%;
     padding-left: 10%;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 875px) {
   .image-right {
     display: none;
   }

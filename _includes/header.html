@@ -6,6 +6,8 @@
 
     <a class="site-title" href="{{ site.baseurl }}/">{% include initials.svg %}{{ site.title }}</a>
 
+    <br class="break">
+
     <nav class="site-nav">
       <a href="#" class="menu-icon">{% include initials.svg %}
       </a>
@@ -16,10 +18,27 @@
           {% unless my_page.exclude %}
             {% if my_page.title %}
             <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}"><strong>{{ my_page.title }}</strong></a>
+            <br class="break">
             {% endif %}
           {% endunless %}
         {% endfor %}
       </div>
+      <div class="header-social">
+        <div class="social-media-list" display="inline-block">
+          {% if site.twitter_username %}
+            {% include icon-twitter.html username=site.twitter_username %}
+          {% endif %}
+          {% if site.instagram_username %}
+            {% include icon-instagram.html username=site.instagram_username %}
+          {% endif %}
+          {% if site.linkedin_username %}
+            {% include icon-linkedin.html username=site.linkedin_username %}
+          {% endif %}
+          {% if site.github_username %}
+            {% include icon-github.html username=site.github_username %}
+          {% endif %}
+      </div></div>
+
     </nav>
 
   </div>
