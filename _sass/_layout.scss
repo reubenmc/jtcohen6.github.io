@@ -298,6 +298,9 @@
 
 .project-caption {
   position: absolute;
+  font-size: 2vw;
+  @include media-query($on-palm) { font-size: 3vw; }
+  white-space: nowrap;
   top: 50%;
   left: 2%;
   width: 100%;
@@ -328,7 +331,6 @@
     display: inline-block;
     float: left;
     position: relative;
-    height: 250px;
     width: 44%;
     padding: 3%;
 
