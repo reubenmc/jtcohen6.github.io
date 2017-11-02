@@ -12,7 +12,7 @@ An ongoing attempt to map, simply and intuitively, the births, deaths, and trave
 * [Discussion](#background) of the theoretical background
 * [Acknowledgments](#acknowledgments), including links to PURM final poster and further information
 
-Better support for mobile (and most non-desktop screen sizes, and just about all other functionality) still underway. Consider it proof of concept, for now. At its heart, a proposal: approaching the ancient world's writers visually, geographically, and always in relation.  also available.
+Functionality is limited, but consider it proof of concept, at least. At its heart, a proposal: approaching the ancient world's writers visually, geographically, and always in relation.
 
 ### <a name="background"></a>Theoretical Background
 
