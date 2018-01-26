@@ -5,7 +5,7 @@ order: 1
 permalink: /about/current
 ---
 
-### January et al:  
+### January & onward:  
 * **Data Analyst** at [Fishtown Analytics](https://www.fishtownanalytics.com/)
 
 ### Otherwise:  
