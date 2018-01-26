@@ -15,7 +15,7 @@ I've been hanging lights for five years, and designing for almost as long. I'm a
 
 &nbsp;  
 
-<div align='center'><a href='https://www.dropbox.com/sh/jg85sutvfagwtfo/AACbtGJsPQAvRSPl5fYHrLQoa?dl=0more'>[a few show photos]</a></div>
+<div align='center'><a href='https://drive.google.com/drive/folders/1Xw33-MLkEppqCXpf2IMGj14assHkycLa?usp=sharing'>[a few show photos]</a></div>
 
 &nbsp;  
 
