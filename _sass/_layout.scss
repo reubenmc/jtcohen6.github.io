@@ -7,7 +7,8 @@
 
     float: left;
     padding: $spacing-unit;
-    bottom: 0px;
+    top: $spacing-unit;
+    position: fixed;
 
     @include media-query($on-palm) {
         position: relative;
@@ -304,17 +305,17 @@
 
 .project-caption {
   position: absolute;
-  font-size: 2vw;
-  @include media-query($on-palm) { font-size: 3vw; }
+  font-size: 4vw;
+  @include media-query($on-palm) { font-size: 5vw; }
   white-space: nowrap;
-  top: 50%;
+  bottom: 10%;
   left: 2%;
   width: 100%;
   visibility: hidden;
   opacity: 0;
-  -moz-transition: visibility 0s, opacity 0.5s linear;
-  -webkit-transition: visibility 0s, opacity 0.5s linear;
-  transition: visibility 0s, opacity 0.5s linear;
+  -moz-transition: visibility 0s, opacity $transition-time linear;
+  -webkit-transition: visibility 0s, opacity $transition-time linear;
+  transition: visibility 0s, opacity $transition-time linear;
 
   & span {
    color: white;
@@ -346,9 +347,9 @@
       height: 100%;
       width: 100%;
       border: 1px solid black;
-      -moz-transition: transform 0.5s;
-      -webkit-transition: transform 0.5s;
-      transition: transform 0.5s;
+      -moz-transition: transform $transition-time;
+      -webkit-transition: transform $transition-time;
+      transition: transform $transition-time;
     }
 
   &:hover {

@@ -2,12 +2,12 @@
 layout: default
 title: current
 order: 1
-permalink: /about/current
+permalink: /current
 ---
 
-### January & onward:  
-* **Data Analyst** at [Fishtown Analytics](https://www.fishtownanalytics.com/)
+### 2018–now:  
+* Data @ [Fishtown Analytics](https://www.fishtownanalytics.com/)
+* Theatrical lighting design & dramaturgy
 
-### Otherwise:  
-* Staying connected to the Philly theatre community; past work with [Quintessence Theatre Group](http://www.quintessencetheatre.org/) and [On the Rocks](https://www.ontherocksphilly.com/)
+### Also:
 * Trying to learn French so that I can someday speak to [this person's](https://twitter.com/frenchplum) mother

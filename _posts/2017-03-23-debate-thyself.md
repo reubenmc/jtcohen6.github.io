@@ -2,7 +2,7 @@
 layout: post
 title: "Debate Thyself"
 date: 2017-03-23
-tags: [penn, debate]
+tags: [school, debate]
 ---
 
 While waiting for the 6 train, I listened to the [story](http://www.radiolab.org/story/debatable/) of Ryan Walsh. Against all

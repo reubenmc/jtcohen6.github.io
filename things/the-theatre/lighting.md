@@ -6,7 +6,7 @@ permalink: /lighting/
 images:
 ---
 
-I've been hanging lights for five years, and designing for almost as long. I'm an theatre person-of-most-trades, and lighting is the backstage work I enjoy doing the most :)
+I've been hanging lights for six years, and designing for almost as long.
 
 &nbsp;  
 
@@ -42,4 +42,4 @@ My aesthetic is heavily influenced by space and context. After lighting shows co
 * Antique (ca. 1928) Mt. Airy movie theatre grand lobby
 * Penn Museum, including Chinese rotunda & Egyptian room
 
-You can view some photos [here](). Unfortunately, I don't have good-quality photographs from many of the smaller groups and productions.
+Unfortunately, I don't have good-quality photographs from many of the smaller groups and productions.

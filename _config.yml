@@ -1,23 +1,9 @@
-# Welcome to Jekyll!
-
-#
-
-# This config file is meant for settings that affect your whole blog, values
-
-# which you are expected to set up once and rarely need to edit after that.
-
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-
 # Site settings
 
 title: jtc
 email: jtcohen6
 
 description: Website of Jeremy T. Cohen, real person.
-# this means to ignore newlines until "baseurl:"
 
 baseurl: "" #subpath
 url: "http://jtcohen6.github.io" # base hostname & protocol for your site

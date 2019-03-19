@@ -7,8 +7,9 @@ exclude: true
 
 <div class="image-right"><img src="/images/greco-roman.png" alt="map" /></div>
 
-An ongoing attempt to map, simply and intuitively, the births, deaths, and travels of major Greek and Latin authors.
-* [Interactive map](/projects/greco-roman-authors/interactive-map.html) (web browser)
+I'm quite interested in the digital humanities. This project was an attempt to 
+map, simply and intuitively, the births, deaths, and travels of major Greek and Latin authors.
+* [Interactive map](interactive-map.html) (web browser)
 * [Discussion](#background) of the theoretical background
 * [Acknowledgments](#acknowledgments), including links to PURM final poster and further information
 
@@ -28,6 +29,6 @@ I aimed to create interactive graphics that are simple, intuitive, and still rig
 
 This project would have been impossible without the mentorship & guidance of Prof. James Ker (Classical Studies, U. of Penn). Additional thanks to Ann Vernon-Grey and CURF for funding and institutional support throughout the PURM experience.
 
-On the technical side, many thanks to [Carto](https://carto.com/) (formerly CartoDB) and its development community, as well as the [Pleiades project](http://pleiades.stoa.org/) for big-picture inspiration.
+Powered by [Carto](https://carto.com/) (formerly CartoDB), and much appreciation to the [Pleiades project](http://pleiades.stoa.org/) for big-picture inspiration.
 
-You can view my final presentation [poster](/projects/greco-roman-authors/purm-poster.pdf) for the Penn Undergraduate Mentoring Program, or find more information about PURM [here](http://www.upenn.edu/curf/research/grants/penn-undergraduate-research-mentoring-program) and [here](http://www.upenn.edu/curf/purm-faq).
+More information about Penn Undergraduate Mentoring Program [here](http://www.upenn.edu/curf/research/grants/penn-undergraduate-research-mentoring-program) and [here](http://www.upenn.edu/curf/purm-faq).

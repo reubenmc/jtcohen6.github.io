@@ -2,30 +2,43 @@
 layout: page
 title: f a q
 order: 2
-permalink: /about/faq
+permalink: /faq
 ---
 
-**What did you study in college?**  
-I had a major (with honors!) in Classical Studies and a minor (from Wharton!) in Statistics. The "honors" means I wrote [a lengthy research paper](/2016/12/19/clst-honors-abstract-intro.html) about bad Christians reading a bad translation of Plato in Roman Egypt. That my minor is from Wharton just means that my classes were in a different building and, on average, [taught by better-paid faculty](https://www.insidehighered.com/news/2016/03/28/study-finds-continued-large-gaps-faculty-salaries-based-discipline).
+**What did you study in college?**
 
-**What did you actually study?**  
-Languages: a lot of Greek (Attic), some Latin, and a lot of R. Reading: ancient texts, histories,  mathematical proofs. Writing: short essays (3-5 pages), longer research papers (12-18 pages), some independent projects for statistics courses. I also took some very unrelated classes, the best of which was intermediate astrophysics.
+I had a major in Classical Studies (honors) and a minor in Statistics (Wharton). The "honors" means I wrote [a lengthy research paper](/2016/12/19/clst-honors-abstract-intro.html) about bad Christians reading a bad translation of Plato in Roman Egypt. That my minor is from Wharton means that my classes were in a different building and, on average, [taught by better-paid faculty](https://www.insidehighered.com/news/2016/03/28/study-finds-continued-large-gaps-faculty-salaries-based-discipline).
 
-**What are you doing with that?**  
-There are very good reasons for pursuing a liberal arts degree (see: hiring [trends](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/georgeanders/2015/07/29/liberal-arts-degree-tech/&refURL=&referrer=#73094ba5745d.), employer [surveys](https://www.aacu.org/leap/presidentstrust/compact/2013SurveySummary), our [Automated Future (TM)](https://www.bloomberg.com/news/videos/2017-02-18/mark-cuban-sees-greater-demand-for-liberal-arts-majors), personal [fulfillment](https://www.nytimes.com/2016/02/24/opinion/dont-turn-away-from-the-art-of-life.html)). At the same time, I recognize that the choice also means a comparatively lower starting salary and less vocational certainty.
+**What did you actually study?**    
+* Languages: Attic Greek, Latin, R.
+* Reading: ancient texts, histories, mathematical proofs. 
+* Writing: short essays (3-5 pages), longer research papers (12-18 pages), 
+independent projects for statistics courses. Plus: some very unrelated classes, 
+the best of which was intermediate astrophysics.    
 
-I spent fall 2016 working at a social-justice synagogue in West Philly and rewarding odd jobs around the Philly theatre community. In January, I'm starting full-time work at [Fishtown Analytics](https://www.fishtownanalytics.com/), a data analytics consultancy that works with other startups and maintains free open-source software tools for data analysts. It's mission-driven in the sense of empowering the work of 'data people' at small, under-resourced organizations.
+**What have you done since college?**  
+* Summer 2017: Graduated, travelled, signed a lease.
+* Fall 2017: Worked operations and event-planning at a social-justice synagogue
+in West Philly. Handshake work around the theatre community. Read novels, 
+secondhand bike, weekly CSA.
+* Jan 2018–now: No. 6 @ [Fishtown Analytics](https://www.fishtownanalytics.com/).
+Open-source software, Medium data, the future of analytics at all the
+startups you've heard of (and especially the ones you haven't).
 
 **Tell me about some of your other interests.**  
-I love theatre, enough to love it even when I hate it. I spent four years on the board of iNtuitons, an "experimental" student theatre group at Penn. In spring 2016, I directed [*The Merchant of Venice*](/projects/merchant-overview.pdf) for Front Row, Penn's "socially relevant" theatre group. In fall 2016, I assistant directed [*Long Day's Journey Into Night*](http://www.quintessencetheatre.org/long-days-journey) for Quintessence Theatre Group, a small professional theatre in the Mt. Airy neighborhood of Northwest Philly.
 
-I try to read a lot, with an aspiration toward longer-form journalism, and I'll read anything with Jia Tolentino, Nathan Heller, Adam Gopnik, Ta-Nehisi Coates, Maggie Haberman, or David Farenthold in the byline. I might start trying to write again soon, too.
+I love theatre, enough to love it even when I hate it.    
+* 2017: [*The Merchant of Venice*](/things/merchant-overview.pdf) (dir.), [*Long Day's Journey Into Night*](http://www.quintessencetheatre.org/long-days-journey) (Quintessence, asst. dir.), [On the Rocks Fringe '17](https://www.ontherocksphilly.com/copy-of-birdie-s-pit-stop) (lights).
+* 2018: Collaborative projects including [*Potts / Table on Table on Table*](https://www.broadstreetreview.com/theater/solow-fest-2018-greenfield-collectives-potts-with-table-on-table-on-table) (SoLow / Greenfield Collective), [*CHEZ VOUS*](https://fringearts.com/event/chez-vous/) (Fringe '18), [*Immigrant Kitchen*](https://www.shreshthkhilani.com/projects/immigrant-kitchen/) (SoLow / Leeway).
 
-**What are you doing right now?**  
-I recommend looking [here](/about/current).
+I spend a lot of time reading, especially [Jia](https://www.newyorker.com/contributors/jia-tolentino).
 
-**Where do you see yourself in five years?**  
-I wish I could give an answer that dignifies the seriousness of the question. As it is, I don't pretend to know what my life looks like five months from now, let alone five years. I've only ever had permanent residence on the East Coast of the United States, but I'm an at-will employee of life and all conditions are subject to change without advance notice or approval.
+**Where do you see yourself in x year(s)?**  
+
+I've only ever had permanent residence on the East Coast of the United States, 
+but I'm an at-will employee of life and all conditions are subject to change 
+without advance notice or approval. The world may not be around for very much
+longer, and I am open to grand gestures on behalf of the people in it.
 
 &nbsp;
 
@@ -34,7 +47,7 @@ I wish I could give an answer that dignifies the seriousness of the question. As
 &nbsp;
 
 <small> **Did you make this website? (_or:_ Where's the Wordpress/Squarespace logo?**)  
-Yes. This site (such as it is) is powered by [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/).  Fonts are [Inconsolata](https://fonts.google.com/specimen/Inconsolata) by Raph Levien, [Merriweather](https://fonts.google.com/specimen/Mate+SC) by Sorkin Type (titles), and [Alegreya Sans SC](https://fonts.google.com/specimen/Alegreya+Sans+SC) by Juan Pablo de Peral (small caps, instead of italics, because I read about it [somewhere](http://practicaltypography.com/small-caps.html)). Smart underlining is my own work, with inspiration and guidance from James Musgrave ([GitHub](https://gist.github.com/jamesmusgrave/d23b9d2f42ffdddd40c5)), Adam Schwartz ([Eager](https://eager.io/blog/smarter-link-underlines/)), and Marcin Wichary ([Medium](https://medium.design/crafting-link-underlines-on-medium-7c03a9274f9)).
+Yes. This site (such as it is) is powered by [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/).  Fonts are [Inconsolata](https://fonts.google.com/specimen/Inconsolata) by Raph Levien, [Merriweather](https://fonts.google.com/specimen/Mate+SC) by Sorkin Type (titles), and [Alegreya Sans SC](https://fonts.google.com/specimen/Alegreya+Sans+SC) by Juan Pablo de Peral (small caps, instead of italics, because I read about it [somewhere](http://practicaltypography.com/small-caps.html)). The underlines are mine, with inspiration and guidance from James Musgrave ([GitHub](https://gist.github.com/jamesmusgrave/d23b9d2f42ffdddd40c5)), Adam Schwartz ([Eager](https://eager.io/blog/smarter-link-underlines/)), and Marcin Wichary ([Medium](https://medium.design/crafting-link-underlines-on-medium-7c03a9274f9)).
 
 <div align="right" class="footer-license">
   <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
