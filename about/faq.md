@@ -31,7 +31,7 @@ I love theatre, enough to love it even when I hate it.
 * 2017: [*The Merchant of Venice*](/things/merchant-overview.pdf) (dir.), [*Long Day's Journey Into Night*](http://www.quintessencetheatre.org/long-days-journey) (Quintessence, asst. dir.), [On the Rocks Fringe '17](https://www.ontherocksphilly.com/copy-of-birdie-s-pit-stop) (lights).
 * 2018: Collaborative projects including [*Potts / Table on Table on Table*](https://www.broadstreetreview.com/theater/solow-fest-2018-greenfield-collectives-potts-with-table-on-table-on-table) (SoLow / Greenfield Collective), [*CHEZ VOUS*](https://fringearts.com/event/chez-vous/) (Fringe '18), [*Immigrant Kitchen*](https://www.shreshthkhilani.com/projects/immigrant-kitchen/) (SoLow / Leeway).
 
-I spend a lot of time reading, especially [Jia](https://www.newyorker.com/contributors/jia-tolentino).
+I spend a lot of time reading, especially [Jia](https://www.newyorker.com/culture/cultural-comment/how-a-woman-becomes-a-lake).
 
 **Where do you see yourself in x year(s)?**  
 
