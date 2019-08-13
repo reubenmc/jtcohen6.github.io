@@ -23,22 +23,29 @@ in West Philly. Handshake work around the theatre community. Read novels,
 secondhand bike, weekly CSA.
 * Jan 2018–now: No. 6 @ [Fishtown Analytics](https://www.fishtownanalytics.com/).
 Open-source software, Medium data, the future of analytics at all the
-startups you've heard of (and especially the ones you haven't).
+startups you've heard of (and plenty of ones you haven't).
 
 **Tell me about some of your other interests.**  
 
 I love theatre, enough to love it even when I hate it.    
-* 2017: [*The Merchant of Venice*](/things/merchant-overview.pdf) (dir.), [*Long Day's Journey Into Night*](http://www.quintessencetheatre.org/long-days-journey) (Quintessence, asst. dir.), [On the Rocks Fringe '17](https://www.ontherocksphilly.com/copy-of-birdie-s-pit-stop) (lights).
+* 2017: [*The Merchant of Venice*](/things/merchant-overview.pdf) (dir.), [*Long Day's Journey Into Night*](http://www.quintessencetheatre.org/long-days-journey) (Quintessence, asst. dir.), [On the Rocks Fringe '17](https://www.ontherocksphilly.com/) (lights).
 * 2018: Collaborative projects including [*Potts / Table on Table on Table*](https://www.broadstreetreview.com/theater/solow-fest-2018-greenfield-collectives-potts-with-table-on-table-on-table) (SoLow / Greenfield Collective), [*CHEZ VOUS*](https://fringearts.com/event/chez-vous/) (Fringe '18), [*Immigrant Kitchen*](https://www.shreshthkhilani.com/projects/immigrant-kitchen/) (SoLow / Leeway).
+* 2019: Opera Delaware (I died on stage), Fringe '19 (lights).
 
-I spend a lot of time reading, especially [Jia](https://www.newyorker.com/culture/cultural-comment/how-a-woman-becomes-a-lake).
+I'm entering my seventh year in Philly. I've lived in three neighborhoods and cycle
+between many more. Since Krasner '17, I've followed city politics by way of 
+[Reclaim Philadelphia](https://www.reclaimphiladelphia.org/), most recently 
+working with its Tech/Data team.
+
+I spend a lot of time reading, especially if it's by [Anna](https://nplusonemag.com/issue-25/on-the-fringe/uncanny-valley/)
+or [Jia](https://www.newyorker.com/culture/cultural-comment/how-a-woman-becomes-a-lake).
 
 **Where do you see yourself in x year(s)?**  
 
 I've only ever had permanent residence on the East Coast of the United States, 
 but I'm an at-will employee of life and all conditions are subject to change 
 without advance notice or approval. The world may not be around for very much
-longer, and I am open to grand gestures on behalf of the people in it.
+longer, and I am desparately searching for grand gestures on behalf of the people in it.
 
 &nbsp;
 
@@ -47,7 +54,16 @@ longer, and I am open to grand gestures on behalf of the people in it.
 &nbsp;
 
 <small> **Did you make this website? (_or:_ Where's the Wordpress/Squarespace logo?**)  
-Yes. This site (such as it is) is powered by [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/).  Fonts are [Inconsolata](https://fonts.google.com/specimen/Inconsolata) by Raph Levien, [Merriweather](https://fonts.google.com/specimen/Mate+SC) by Sorkin Type (titles), and [Alegreya Sans SC](https://fonts.google.com/specimen/Alegreya+Sans+SC) by Juan Pablo de Peral (small caps, instead of italics, because I read about it [somewhere](http://practicaltypography.com/small-caps.html)). The underlines are mine, with inspiration and guidance from James Musgrave ([GitHub](https://gist.github.com/jamesmusgrave/d23b9d2f42ffdddd40c5)), Adam Schwartz ([Eager](https://eager.io/blog/smarter-link-underlines/)), and Marcin Wichary ([Medium](https://medium.design/crafting-link-underlines-on-medium-7c03a9274f9)).
+Yes. This site (such as it is) is powered by [Jekyll](https://jekyllrb.com/) and 
+[GitHub Pages](https://pages.github.com/). Headshot by [EL](https://twitter.com/ericalouie). 
+Fonts are [Inconsolata](https://fonts.google.com/specimen/Inconsolata) by Raph Levien, 
+[Merriweather](https://fonts.google.com/specimen/Mate+SC) by Sorkin Type 
+(titles), and [Alegreya Sans SC](https://fonts.google.com/specimen/Alegreya+Sans+SC) 
+by Juan Pablo de Peral (small caps, instead of italics, because I read about it [somewhere](http://practicaltypography.com/small-caps.html)). The underlines are 
+mine, with inspiration and guidance from James Musgrave 
+([GitHub](https://gist.github.com/jamesmusgrave/d23b9d2f42ffdddd40c5)), 
+Adam Schwartz ([Eager](https://eager.io/blog/smarter-link-underlines/)), and 
+Marcin Wichary ([Medium](https://medium.design/crafting-link-underlines-on-medium-7c03a9274f9)).
 
 <div align="right" class="footer-license">
   <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">

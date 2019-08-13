@@ -20,8 +20,13 @@ I've been hanging lights for six years, and designing for almost as long.
 
 &nbsp;
 
-<div class="image-right"><img src="/images/metwo.jpg" alt="me" /></div>
-<div class="image-right"><img src="/images/methree.jpg" alt="also me" /></div>
+<table style="width:100%">
+  <tr>
+    <td><img src="/images/metwo.jpg" alt="me" style="border-radius: 10%;"/></td>
+    <td></td> 
+    <td><img src="/images/methree.jpg" alt="also me" style="border-radius: 10%;" /></td>
+  </tr>
+</table>
 
 &nbsp;
 
