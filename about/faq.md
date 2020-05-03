@@ -7,23 +7,23 @@ permalink: /faq
 
 **What did you study in college?**
 
-I had a major in Classical Studies (honors) and a minor in Statistics (Wharton). The "honors" means I wrote [a lengthy research paper](/2016/12/19/clst-honors-abstract-intro.html) about bad Christians reading a bad translation of Plato in Roman Egypt. That my minor is from Wharton means that my classes were in a different building and, on average, [taught by better-paid faculty](https://www.insidehighered.com/news/2016/03/28/study-finds-continued-large-gaps-faculty-salaries-based-discipline).
+I had a major in Classical Studies (with honors) and a minor in Statistics. The "honors" means I wrote [a lengthy research paper](/2016/12/19/clst-honors-abstract-intro.html) about bad Christians reading a bad translation of Plato in Roman Egypt.
 
 **What did you actually study?**    
-* Languages: Attic Greek, Latin, R.
+* Languages: Ancient Greek (Attic & Homeric), some Latin, a lot of R.
 * Reading: ancient texts, histories, mathematical proofs. 
 * Writing: short essays (3-5 pages), longer research papers (12-18 pages), 
 independent projects for statistics courses. Plus: some very unrelated classes, 
 the best of which was intermediate astrophysics.    
 
 **What have you done since college?**  
-* Summer 2017: Graduated, travelled, signed a lease.
+* Summer 2017: Graduated, a bit of travel, moved back to Philly with one suitcase.
 * Fall 2017: Worked operations and event-planning at a social-justice synagogue
 in West Philly. Handshake work around the theatre community. Read novels, 
 secondhand bike, weekly CSA.
-* Jan 2018–now: No. 6 @ [Fishtown Analytics](https://www.fishtownanalytics.com/).
-Open-source software, Medium data, the future of analytics at all the
-startups you've heard of (and plenty of ones you haven't).
+* Jan 2018–now: No. 5 @ [Fishtown Analytics](https://www.fishtownanalytics.com/).
+Open-source software, Medium data, the future of analytics. 
+I work on [dbt](https://getdbt.com), heard of it?
 
 **Tell me about some of your other interests.**  
 
@@ -55,7 +55,7 @@ longer, and I am desparately searching for grand gestures on behalf of the peopl
 
 <small> **Did you make this website? (_or:_ Where's the Wordpress/Squarespace logo?**)  
 Yes. This site (such as it is) is powered by [Jekyll](https://jekyllrb.com/) and 
-[GitHub Pages](https://pages.github.com/). Headshot by [EL](https://twitter.com/ericalouie). 
+[GitHub Pages](https://pages.github.com/). Homepage photo by [EL](https://twitter.com/ericalouie). 
 Fonts are [Inconsolata](https://fonts.google.com/specimen/Inconsolata) by Raph Levien, 
 [Merriweather](https://fonts.google.com/specimen/Mate+SC) by Sorkin Type 
 (titles), and [Alegreya Sans SC](https://fonts.google.com/specimen/Alegreya+Sans+SC) 

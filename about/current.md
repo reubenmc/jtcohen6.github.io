@@ -6,9 +6,9 @@ permalink: /current
 ---
 
 ### 2018–now:  
-* Data @ [Fishtown Analytics](https://www.fishtownanalytics.com/)
-* Theatrical lighting design & dramaturgy
+* Data, open source, & teaching @ [Fishtown Analytics](https://www.fishtownanalytics.com/)
 * Reconciling my skills, interests, & values
 
 ### Also:
-* Learning French so that I can someday speak to [this person's](https://twitter.com/frenchplum) mother
+* Trying to get a [good person](http://nikilsaval.com/) into elected office
+* Apprendre le français, lentement mais avec un peu d'aide de [mes amis](https://twitter.com/meerabellej)
