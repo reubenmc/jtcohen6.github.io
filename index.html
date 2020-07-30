@@ -18,9 +18,31 @@ Talk to me about:
     <li>Bike lanes</li>
 </ul>
 
-<p>I'm lucky to have skills relevant in {{ 'now' | date: "%Y" }} (and 400 BCE). If you're a
+<p>I'm lucky to have skills relevant in <span id="this_year">{{ 'now' | date: "%Y" }}</span> (and 400 BCE). If you're a
     progressive organization looking for data help, <a href="contact">contact me</a>.</p>
 
 <p>&nbsp;</p>
 
-<p>Today I am feeling: <em>intent.</em></p>
+<p>Today I am feeling: <em><span id="today_i_feel"></span>.</em></p>
+
+<script>
+    var today = new Date();
+    var this_year = today.getFullYear();
+    document.getElementById("this_year").innerHTML = this_year;
+    
+    var feelings = [
+        'anticipatory',
+        'intent',
+        'felicitous',
+        'auspicious',
+        'keen',
+        'pensive',
+        'hopeful',
+        'expectant',
+        'equanimous'
+    ]
+    
+    var today_rng = (today.getMonth() * today.getDate() - today.getDay()) % 10;
+    document.getElementById("today_i_feel").innerHTML = feelings[today_rng];
+    
+</script>
