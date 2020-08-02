@@ -18,25 +18,13 @@ a nice website](https://www.shreshthkhilani.com/).
 
 I've been hanging lights for six years, and designing for almost as long.
 
-&nbsp;
-
-<table style="width:100%">
-  <tr>
-    <td><img src="/images/metwo.jpg" alt="me" style="border-radius: 10%;"/></td>
-    <td></td> 
-    <td><img src="/images/methree.jpg" alt="also me" style="border-radius: 10%;" /></td>
-  </tr>
-</table>
-
-&nbsp;
-
 My aesthetic is heavily influenced by space and context. After lighting shows conventional and unconventional, and working in venues both established and (literally) underground, I find the work of finding, shaping, and creating space with light most compelling.
 
 #### From Fringe 2017:
 
 > "Julia Montante's scenic design and Jeremy T. Cohen's lighting use the space (even its three pillars) well, creating a twinkle-light wedding fantasia that contrasts ironically with the dark tale." - Mark Cofta, [Broad Street Review](http://www.broadstreetreview.com/theater/philly-fringe-2017-on-the-rocks-the-grooms-a-fag)
 
-> "Jeremy T. Cohan’s [sp!] guerrilla lighting is very much of a piece with the world Walker and Di Monaco are creating." - Cameron Kelsall, [phindie](http://phindie.com/15897-the-grooms-a-fag-the-brides-a-cunt-on-the-rocks-2017-fringe-review/)
+> "Jeremy T. Cohan’s [sp] guerrilla lighting is very much of a piece with the world Walker and Di Monaco are creating." - Cameron Kelsall, [phindie](http://phindie.com/15897-the-grooms-a-fag-the-brides-a-cunt-on-the-rocks-2017-fringe-review/)
 
 #### Groups I've worked with:
 

@@ -31,21 +31,16 @@ I love theatre, enough to love it even when I hate it.
 * 2017: [*The Merchant of Venice*](/things/merchant-overview.pdf) (dir.), [*Long Day's Journey Into Night*](http://www.quintessencetheatre.org/long-days-journey) (Quintessence, asst. dir.), [On the Rocks Fringe '17](https://www.ontherocksphilly.com/) (lights).
 * 2018: Collaborative projects including [*Potts / Table on Table on Table*](https://www.broadstreetreview.com/theater/solow-fest-2018-greenfield-collectives-potts-with-table-on-table-on-table) (SoLow / Greenfield Collective), [*CHEZ VOUS*](https://fringearts.com/event/chez-vous/) (Fringe '18), [*Immigrant Kitchen*](https://www.shreshthkhilani.com/projects/immigrant-kitchen/) (SoLow / Leeway).
 * 2019: Opera Delaware (I died on stage), Fringe '19 (lights).
+* 2020: Well.
 
-I'm entering my seventh year in Philly. I've lived in three neighborhoods and cycle
-between many more. Since Krasner '17, I've followed city politics by way of 
-[Reclaim Philadelphia](https://www.reclaimphiladelphia.org/), most recently 
-working with its Tech/Data team.
+I've lived my entire adult life (seven years) in the greatest city in the world.
+Since Krasner '17, I've done my small part to ensure that [the left keeps winning in Philly](https://www.thenation.com/article/politics/philadelphia-dem-primary-movement/).
 
-I spend a lot of time reading, especially if it's by [Anna](https://nplusonemag.com/issue-25/on-the-fringe/uncanny-valley/)
-or [Jia](https://www.newyorker.com/culture/cultural-comment/how-a-woman-becomes-a-lake).
+I spend a lot of time reading, sometimes the right things.
 
 **Where do you see yourself in x year(s)?**  
 
-I've only ever had permanent residence on the East Coast of the United States, 
-but I'm an at-will employee of life and all conditions are subject to change 
-without advance notice or approval. The world may not be around for very much
-longer, and I am desparately searching for grand gestures on behalf of the people in it.
+I'm moving to France, as soon as they'll have me.
 
 &nbsp;
 
