@@ -1,6 +1,7 @@
 ---
 layout: default
 title: theatrical
+lang: en
 exclude: true
 ---
 

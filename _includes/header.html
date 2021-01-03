@@ -4,7 +4,11 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/"><span class="initials">{% include initials.svg %}</span>{{ site.title }}</a>
+    {% unless page.lang == 'en' %}
+      {% assign home_lang = page.lang %}
+    {% endunless %}
+
+    <a class="site-title" href="{{ site.baseurl }}/{{ home_lang }}"><span class="initials">{% include initials.svg %}</span>{{ site.title }}</a>
 
     <br class="break">
 
@@ -13,7 +17,7 @@
       </a>
 
       <div class="trigger">
-        {% assign sorted_pages = site.pages | sort:"order" %}
+        {% assign sorted_pages = site.pages | where:"lang", page.lang | sort:"order" %}
         {% for my_page in sorted_pages %}
           {% unless my_page.exclude %}
             {% if my_page.title %}
@@ -23,6 +27,20 @@
           {% endunless %}
         {% endfor %}
       </div>
+      <div class="header-lang">
+        <div class="lang-list" display="inline-block">
+          {% assign posts = site.posts | where: "ref_en", page.ref_en | sort: 'lang' %}
+          {% if posts.size == 0 %}
+              {% assign posts = site.pages | where: "ref_en", page.ref_en | sort: 'lang' %}
+          {% endif %}
+          {% if posts.size > 1 %}
+              {% for post in posts %}
+                {% unless post.lang == page.lang %}
+                <em><a href="{{ site.base-url }}{{ post.url }}" title="{{ post.lang }}">{{ post.lang }}</a></em>
+                {% endunless %}
+              {% endfor %}
+          {% endif %}
+      </div></div>
       <div class="header-social">
         <div class="social-media-list" display="inline-block">
           {% if site.twitter_username %}

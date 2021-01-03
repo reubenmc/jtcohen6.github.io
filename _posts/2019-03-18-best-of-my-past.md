@@ -2,6 +2,7 @@
 layout: post
 title: "Best of: embarrassing links from my past"
 date: 2018-03-18
+lang: en
 tags: [school,listicle,classics-but-not-in-that-sense]
 ---
 

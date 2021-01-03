@@ -3,6 +3,8 @@ layout: default
 title: current
 order: 1
 permalink: /current
+lang: en
+ref_en: current
 ---
 
 ### 2018–now:  
