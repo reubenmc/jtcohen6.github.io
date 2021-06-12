@@ -2,6 +2,7 @@
 layout: post
 title: "Debate Thyself"
 date: 2017-03-23
+lang: en
 tags: [school, debate]
 ---
 

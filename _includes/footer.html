@@ -1,9 +1,23 @@
 <footer class="site-footer">
 
   <div class="wrapper">
-      <div display="inline-block" align="right" class="footer-col">
-
-        <div class="social-media-list">
+      
+      <div display="inline-block" class="footer-col">
+        <div style="float: left;" class="lang-list">
+          {% assign posts = site.posts | where: "ref_en", page.ref_en | sort: 'lang' %}
+          {% if posts.size == 0 %}
+              {% assign posts = site.pages | where: "ref_en", page.ref_en | sort: 'lang' %}
+          {% endif %}
+          {% if posts.size > 1 %}
+              {% for post in posts %}
+                {% unless post.lang == page.lang %}
+                <em><a href="{{ site.base-url }}{{ post.url }}" title="{{ post.lang }}">{{ post.lang }}</a></em>
+                {% endunless %}
+              {% endfor %}
+          {% endif %}
+      </div>
+          
+        <div style="float: right;" class="social-media-list">
           {% if site.twitter_username %}
             {% include icon-twitter.html username=site.twitter_username %}
           {% endif %}

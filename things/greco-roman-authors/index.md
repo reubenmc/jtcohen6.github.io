@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Mapping Greco-Roman Authors"
-date:   2015-08-21
+title: "Mapping Greco-Roman Authors"
+date: 2015-08-21
+lang: en
 exclude: true
 ---
 

@@ -3,6 +3,8 @@ layout: default
 title: current
 order: 1
 permalink: /current
+lang: en
+ref_en: current
 ---
 
 ### 2018–now:  
@@ -11,4 +13,4 @@ permalink: /current
 
 ### Also:
 * Helped elect a [good person](http://nikilsaval.com/) into public office
-* Apprendre le français, lentement mais avec un peu d'aide de [mes amis](https://twitter.com/meerabellej)
+* Apprendre le français, lentement mais avec un peu d'aide de [mes amis](https://meerabellejesuthasan.com/)

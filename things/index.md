@@ -2,6 +2,8 @@
 layout: default
 title: things
 order: 4
+lang: en
+ref_en: things
 things:
 - title: theatrical
   href: the-theatre

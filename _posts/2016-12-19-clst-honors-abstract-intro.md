@@ -2,6 +2,7 @@
 layout: post
 title: "Honors Thesis (Abstract & Intro)"
 date: 2016-12-19
+lang: en
 tags: [classics]
 ---
 

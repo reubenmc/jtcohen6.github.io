@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Selected Projects"
-date:   2016-12-09
+title: "Selected Projects"
+date: 2016-12-09
+lang: en
 exclude: true
 ---
 

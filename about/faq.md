@@ -3,6 +3,8 @@ layout: page
 title: f a q
 order: 2
 permalink: /faq
+lang: en
+ref_en: faq
 ---
 
 **What did you study in college?**

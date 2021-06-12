@@ -73,6 +73,7 @@
 
         .break { display: none; }
         .header-social { display: none; }
+        .header-lang { display: none; }
 
         .menu-icon {
             display: block;
@@ -134,7 +135,8 @@
 }
 
 .contact-list,
-.social-media-list {
+.social-media-list,
+.lang-list {
     list-style: none;
     margin-left: 0;
 }
