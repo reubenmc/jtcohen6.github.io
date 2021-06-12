@@ -13,4 +13,4 @@ ref_en: current
 
 ### Also:
 * Helped elect a [good person](http://nikilsaval.com/) into public office
-* Apprendre le français, lentement mais avec un peu d'aide de [mes amis](https://twitter.com/meerabellej)
+* Apprendre le français, lentement mais avec un peu d'aide de [mes amis](https://meerabellejesuthasan.com/)
