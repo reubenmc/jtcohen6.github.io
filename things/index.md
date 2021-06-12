@@ -2,6 +2,7 @@
 layout: default
 title: things
 order: 4
+exclude: true
 lang: en
 ref_en: things
 things:
