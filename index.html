@@ -10,27 +10,15 @@ ref_en: index
   <h1 class="post-title">Jeremy</h1>
 </header>
 
-<p style="font-size:18px">À <strong>Marseille</strong>.
-    I like to think I write good emails & ok code.</p>
-
-Talk to me about:
-<ul>
-    <li>Big (ish) data at small organizations</li>
-    <li>Etymology of otherness, intersectional classics, history of religion + class</li>
-    <li>Bike lanes</li>
-</ul>
-
-<p>I'm lucky to have skills relevant in <span id="this_year">{{ 'now' | date: "%Y" }}</span> (and 400 BCE). If you're a
-    lefty org looking for data help, <a href="contact">contact me</a>.</p>
+<p style="font-size:18px">à <strong>Marseille</strong></p>
+<p>I like to think I write good docs <br>& ok code</p>
 
 <p>&nbsp;</p>
 
-<p>Today I am feeling: <em><span id="today_i_feel"></span>.</em></p>
+<p>today I feel: <em><span id="today_i_feel"></span></em></p>
 
 <script>
     var today = new Date();
-    var this_year = today.getFullYear();
-    document.getElementById("this_year").innerHTML = this_year;
     
     var feelings = [
         'anticipatory',

@@ -7,4 +7,4 @@ lang: fr
 ref_en: faq
 ---
 
-Bientôt, désolé ! Pendant, [lisez-les en anglais](/faq).
+Bientôt, désolé ! ([Lire en anglais](/faq))

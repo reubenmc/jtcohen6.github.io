@@ -8,9 +8,5 @@ ref_en: current
 ---
 
 ### 2018–maintenant:  
-* Logiciel open-source pour la data moderne @ [Fishtown Analytics](https://www.fishtownanalytics.com/)
+* Logiciel open-source pour la data moderne @ [dbt Labs](https://www.getdbt.com/) (née Fishtown Analytics)
 * Réconcilier mes compétences, intérêts, & valeurs
-
-### Aussi:
-* Aidé à élire un [bon homme](http://nikilsaval.com/)
-* Apprendre le français, lentement mais avec un peu d'aide de [mes amis](https://meerabellejesuthasan.com/)

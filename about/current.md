@@ -7,10 +7,6 @@ lang: en
 ref_en: current
 ---
 
-### 2018–now:  
-* Open-source software for modern data @ [Fishtown Analytics](https://www.fishtownanalytics.com/)
+### 2018–present:  
+* Open-source software for modern data @ [dbt Labs](https://www.getdbt.com/) (f.k.a. Fishtown Analytics)
 * Reconciling my skills, interests, & values
-
-### Also:
-* Helped elect a [good person](http://nikilsaval.com/) into public office
-* Apprendre le français, lentement mais avec un peu d'aide de [mes amis](https://meerabellejesuthasan.com/)

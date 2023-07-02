@@ -23,26 +23,26 @@ the best of which was intermediate astrophysics.
 * Fall 2017: Worked operations and event-planning at a social-justice synagogue
 in West Philly. Handshake work around the theatre community. Read novels, 
 secondhand bike, weekly CSA.
-* Jan 2018–now: No. 5 @ [Fishtown Analytics](https://www.fishtownanalytics.com/).
-Open-source software, Medium data, the future of analytics. 
-I work on [dbt](https://getdbt.com), heard of it?
+* Jan 2018–now: No. 7(?) @ Fishtown Analytics, now [dbt Labs](https://www.getdbt.com/dbt-labs/about-us/). I'm a "Product Manager" (whatever that means), working on [a little piece of open-source software](https://github.com/dbt-labs/dbt-core), trying to keep the music playing.
+* Aug 2021: Moved to Marseille, France.
 
 **Tell me about some of your other interests.**  
 
-I love theatre, enough to love it even when I hate it.    
-* 2017: [*The Merchant of Venice*](/things/merchant-overview.pdf) (dir.), [*Long Day's Journey Into Night*](http://www.quintessencetheatre.org/long-days-journey) (Quintessence, asst. dir.), [On the Rocks Fringe '17](https://www.ontherocksphilly.com/) (lights).
-* 2018: Collaborative projects including [*Potts / Table on Table on Table*](https://www.broadstreetreview.com/theater/solow-fest-2018-greenfield-collectives-potts-with-table-on-table-on-table) (SoLow / Greenfield Collective), [*CHEZ VOUS*](https://fringearts.com/event/chez-vous/) (Fringe '18), [*Immigrant Kitchen*](https://www.shreshthkhilani.com/projects/immigrant-kitchen/) (SoLow / Leeway).
-* 2019: Opera Delaware (I died on stage), Fringe '19 (lights).
-* 2020: Well.
+I love theatre, enough to love it even when I hate it. Malheureusement, I haven't been doing much since moving to France, sauf the act of my everyday existence.
 
-I've lived my entire adult life (seven years) in the greatest city in the world.
-Since Krasner '17, I've done my small part to ensure that [the left keeps winning in Philly](https://www.thenation.com/article/politics/philadelphia-dem-primary-movement/).
+I spend a lot of time reading, sometimes the right things. I quite like [n+1](https://www.nplusonemag.com/) and [Jewish Currents](https://jewishcurrents.org/).
 
-I spend a lot of time reading, sometimes the right things.
+**Have you read...?**
+
+Maybe!
+
+**What else should we talk about?**
+
+Politics, religion, language, climate crisis, poetry
 
 **Where do you see yourself in x year(s)?**  
 
-I'm moving to France, as soon as they'll have me.
+Je ne sais pas !
 
 &nbsp;
 
